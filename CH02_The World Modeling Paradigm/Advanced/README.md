@@ -1,4 +1,4 @@
-# Advanced Exercises Solution Repository
+# Solutions of Advanced Exercises in Chapter 2
 
 This directory contains Jupyter Notebook solutions for two advanced exercises in **Chapter 2: The World Modeling Paradigm**, focusing on world model implementation, evaluation, and counterfactual analysis. Each notebook includes complete code, step-by-step explanations, and result visualizations to reproduce the study outcomes.
 
