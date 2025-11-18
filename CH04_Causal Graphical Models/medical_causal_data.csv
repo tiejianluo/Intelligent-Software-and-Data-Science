@@ -1,0 +1,1001 @@
+Disease,Symptoms,Test_Result,Diagnosis
+No Disease,No Symptoms,Normal,Observation
+Bronchitis,Persistent Cough,Lung Function Reduced,Further Testing
+Pneumonia,Chest Pain+Shortness of Breath,Inflammatory Markers High,Aggressive Treatment
+Influenza,Fever+Fatigue,Positive Flu,Standard Treatment
+No Disease,Mild Cough,Normal,Observation
+No Disease,No Symptoms,Normal,Observation
+No Disease,No Symptoms,Normal,Observation
+Pneumonia,Chest Pain+Shortness of Breath,Inflammatory Markers High,Aggressive Treatment
+Influenza,Fever+Cough,Positive Flu,Standard Treatment
+Pneumonia,High Fever+Cough,Chest X-ray Abnormal,Aggressive Treatment
+No Disease,No Symptoms,Normal,Observation
+Bronchitis,Cough+Wheezing,Lung Function Reduced,Further Testing
+Pneumonia,Chest Pain+Shortness of Breath,Inflammatory Markers High,Aggressive Treatment
+No Disease,No Symptoms,Normal,Observation
+No Disease,No Symptoms,Normal,Observation
+No Disease,Mild Cough,Normal,Observation
+No Disease,No Symptoms,Normal,Observation
+Influenza,Fever+Fatigue,Inconclusive,Further Testing
+Influenza,Cough+Headache,Positive Flu,Standard Treatment
+No Disease,No Symptoms,Normal,Observation
+Influenza,Fever+Fatigue,Inconclusive,Further Testing
+No Disease,No Symptoms,Normal,Observation
+No Disease,Mild Cough,Borderline,Further Testing
+No Disease,Mild Cough,Normal,Observation
+Influenza,Cough+Headache,Positive Flu,Standard Treatment
+Pneumonia,High Fever+Cough,Chest X-ray Abnormal,Aggressive Treatment
+No Disease,Mild Cough,Normal,Observation
+Influenza,Cough+Headache,Inconclusive,Further Testing
+Influenza,Fever+Cough,Positive Flu,Standard Treatment
+No Disease,Mild Cough,Normal,Observation
+Influenza,Fever+Cough,Positive Flu,Standard Treatment
+No Disease,No Symptoms,Normal,Observation
+No Disease,No Symptoms,Normal,Observation
+Bronchitis,Persistent Cough,Normal,Further Testing
+Bronchitis,Persistent Cough,Lung Function Reduced,Further Testing
+Pneumonia,Chest Pain+Shortness of Breath,Chest X-ray Abnormal,Aggressive Treatment
+No Disease,No Symptoms,Normal,Observation
+No Disease,No Symptoms,Normal,Observation
+Influenza,Fever+Cough,Positive Flu,Standard Treatment
+Influenza,Fever+Cough,Positive Flu,Standard Treatment
+No Disease,No Symptoms,Normal,Observation
+Influenza,Fever+Fatigue,Positive Flu,Standard Treatment
+No Disease,No Symptoms,Normal,Observation
+Bronchitis,Persistent Cough,Lung Function Reduced,Further Testing
+No Disease,Mild Cough,Normal,Observation
+Influenza,Fever+Fatigue,Inconclusive,Further Testing
+No Disease,No Symptoms,Normal,Observation
+Influenza,Fever+Cough,Inconclusive,Further Testing
+Influenza,Cough+Headache,Positive Flu,Standard Treatment
+No Disease,No Symptoms,Normal,Observation
+Bronchitis,Cough+Wheezing,Lung Function Reduced,Further Testing
+Pneumonia,High Fever+Cough,Chest X-ray Abnormal,Aggressive Treatment
+Bronchitis,Cough+Wheezing,Lung Function Reduced,Further Testing
+Pneumonia,Chest Pain+Shortness of Breath,Inflammatory Markers High,Aggressive Treatment
+Influenza,Cough+Headache,Inconclusive,Further Testing
+Bronchitis,Persistent Cough,Lung Function Reduced,Further Testing
+No Disease,No Symptoms,Normal,Observation
+No Disease,No Symptoms,Normal,Observation
+No Disease,No Symptoms,Normal,Observation
+No Disease,No Symptoms,Normal,Observation
+No Disease,Mild Cough,Normal,Observation
+No Disease,Mild Cough,Normal,Observation
+Pneumonia,Chest Pain+Shortness of Breath,Inflammatory Markers High,Aggressive Treatment
+No Disease,No Symptoms,Normal,Observation
+No Disease,No Symptoms,Normal,Observation
+Influenza,Fever+Fatigue,Inconclusive,Further Testing
+No Disease,No Symptoms,Normal,Observation
+Pneumonia,High Fever+Cough,Chest X-ray Abnormal,Aggressive Treatment
+No Disease,No Symptoms,Normal,Observation
+Bronchitis,Persistent Cough,Lung Function Reduced,Further Testing
+Pneumonia,High Fever+Cough,Inflammatory Markers High,Aggressive Treatment
+No Disease,No Symptoms,Normal,Observation
+No Disease,No Symptoms,Normal,Observation
+Pneumonia,High Fever+Cough,Inflammatory Markers High,Aggressive Treatment
+Pneumonia,Chest Pain+Shortness of Breath,Inflammatory Markers High,Aggressive Treatment
+Pneumonia,High Fever+Cough,Inflammatory Markers High,Aggressive Treatment
+Pneumonia,High Fever+Cough,Chest X-ray Abnormal,Aggressive Treatment
+No Disease,No Symptoms,Normal,Observation
+No Disease,No Symptoms,Borderline,Further Testing
+No Disease,Mild Cough,Normal,Observation
+Pneumonia,Chest Pain+Shortness of Breath,Chest X-ray Abnormal,Aggressive Treatment
+Influenza,Fever+Cough,Positive Flu,Standard Treatment
+No Disease,No Symptoms,Normal,Observation
+No Disease,Mild Cough,Borderline,Further Testing
+No Disease,Mild Cough,Normal,Observation
+No Disease,No Symptoms,Normal,Observation
+Pneumonia,Chest Pain+Shortness of Breath,Chest X-ray Abnormal,Aggressive Treatment
+Influenza,Fever+Cough,Positive Flu,Standard Treatment
+Pneumonia,Chest Pain+Shortness of Breath,Inflammatory Markers High,Aggressive Treatment
+Influenza,Fever+Cough,Positive Flu,Standard Treatment
+No Disease,Mild Cough,Normal,Observation
+Pneumonia,Chest Pain+Shortness of Breath,Inflammatory Markers High,Aggressive Treatment
+Pneumonia,Chest Pain+Shortness of Breath,Chest X-ray Abnormal,Aggressive Treatment
+Influenza,Fever+Fatigue,Positive Flu,Standard Treatment
+Pneumonia,High Fever+Cough,Chest X-ray Abnormal,Aggressive Treatment
+Influenza,Fever+Cough,Inconclusive,Further Testing
+Influenza,Fever+Cough,Positive Flu,Standard Treatment
+Influenza,Fever+Cough,Positive Flu,Standard Treatment
+No Disease,No Symptoms,Normal,Observation
+No Disease,No Symptoms,Normal,Observation
+No Disease,No Symptoms,Borderline,Further Testing
+Influenza,Cough+Headache,Positive Flu,Standard Treatment
+No Disease,Mild Cough,Normal,Observation
+Influenza,Cough+Headache,Positive Flu,Standard Treatment
+Bronchitis,Cough+Wheezing,Lung Function Reduced,Further Testing
+No Disease,No Symptoms,Normal,Observation
+Influenza,Fever+Cough,Inconclusive,Further Testing
+Pneumonia,Chest Pain+Shortness of Breath,Inflammatory Markers High,Aggressive Treatment
+No Disease,No Symptoms,Normal,Observation
+No Disease,No Symptoms,Borderline,Further Testing
+No Disease,Mild Cough,Normal,Observation
+No Disease,No Symptoms,Normal,Observation
+Bronchitis,Persistent Cough,Lung Function Reduced,Further Testing
+Pneumonia,High Fever+Cough,Inflammatory Markers High,Aggressive Treatment
+Influenza,Fever+Fatigue,Positive Flu,Standard Treatment
+Pneumonia,High Fever+Cough,Chest X-ray Abnormal,Aggressive Treatment
+Pneumonia,High Fever+Cough,Chest X-ray Abnormal,Aggressive Treatment
+No Disease,Mild Cough,Normal,Observation
+Pneumonia,High Fever+Cough,Chest X-ray Abnormal,Aggressive Treatment
+Influenza,Fever+Cough,Inconclusive,Further Testing
+Pneumonia,Chest Pain+Shortness of Breath,Inflammatory Markers High,Aggressive Treatment
+Pneumonia,Chest Pain+Shortness of Breath,Chest X-ray Abnormal,Aggressive Treatment
+No Disease,Mild Cough,Borderline,Further Testing
+No Disease,Mild Cough,Normal,Observation
+No Disease,No Symptoms,Borderline,Further Testing
+Influenza,Fever+Fatigue,Positive Flu,Standard Treatment
+Pneumonia,High Fever+Cough,Inflammatory Markers High,Aggressive Treatment
+Pneumonia,High Fever+Cough,Chest X-ray Abnormal,Aggressive Treatment
+No Disease,No Symptoms,Normal,Observation
+Influenza,Fever+Cough,Positive Flu,Standard Treatment
+Influenza,Fever+Fatigue,Positive Flu,Standard Treatment
+No Disease,No Symptoms,Normal,Observation
+No Disease,No Symptoms,Normal,Observation
+No Disease,No Symptoms,Normal,Observation
+Bronchitis,Persistent Cough,Lung Function Reduced,Further Testing
+No Disease,No Symptoms,Normal,Observation
+Influenza,Cough+Headache,Positive Flu,Standard Treatment
+Pneumonia,High Fever+Cough,Inflammatory Markers High,Aggressive Treatment
+No Disease,No Symptoms,Normal,Observation
+Bronchitis,Persistent Cough,Normal,Further Testing
+Bronchitis,Cough+Wheezing,Normal,Further Testing
+No Disease,No Symptoms,Normal,Observation
+Influenza,Fever+Fatigue,Inconclusive,Further Testing
+No Disease,No Symptoms,Normal,Observation
+No Disease,No Symptoms,Normal,Observation
+No Disease,Mild Cough,Normal,Observation
+Influenza,Fever+Fatigue,Positive Flu,Standard Treatment
+Influenza,Fever+Fatigue,Positive Flu,Standard Treatment
+No Disease,Mild Cough,Normal,Observation
+No Disease,Mild Cough,Normal,Observation
+Bronchitis,Cough+Wheezing,Lung Function Reduced,Further Testing
+No Disease,Mild Cough,Normal,Observation
+No Disease,No Symptoms,Normal,Observation
+Influenza,Fever+Fatigue,Inconclusive,Further Testing
+Bronchitis,Persistent Cough,Lung Function Reduced,Further Testing
+No Disease,No Symptoms,Normal,Observation
+Influenza,Fever+Cough,Positive Flu,Standard Treatment
+Pneumonia,Chest Pain+Shortness of Breath,Chest X-ray Abnormal,Aggressive Treatment
+No Disease,Mild Cough,Normal,Observation
+Pneumonia,High Fever+Cough,Inflammatory Markers High,Aggressive Treatment
+No Disease,Mild Cough,Normal,Observation
+Influenza,Fever+Cough,Positive Flu,Standard Treatment
+Influenza,Fever+Cough,Positive Flu,Standard Treatment
+Influenza,Fever+Fatigue,Inconclusive,Further Testing
+No Disease,No Symptoms,Normal,Observation
+Pneumonia,Chest Pain+Shortness of Breath,Inflammatory Markers High,Aggressive Treatment
+No Disease,Mild Cough,Normal,Observation
+No Disease,No Symptoms,Normal,Observation
+No Disease,No Symptoms,Normal,Observation
+Influenza,Fever+Cough,Positive Flu,Standard Treatment
+Influenza,Fever+Fatigue,Positive Flu,Standard Treatment
+No Disease,Mild Cough,Normal,Observation
+Influenza,Fever+Fatigue,Positive Flu,Standard Treatment
+No Disease,No Symptoms,Normal,Observation
+Influenza,Fever+Fatigue,Positive Flu,Standard Treatment
+No Disease,No Symptoms,Normal,Observation
+Influenza,Fever+Fatigue,Positive Flu,Standard Treatment
+No Disease,No Symptoms,Normal,Observation
+Bronchitis,Cough+Wheezing,Lung Function Reduced,Further Testing
+No Disease,No Symptoms,Normal,Observation
+No Disease,Mild Cough,Normal,Observation
+No Disease,No Symptoms,Normal,Observation
+Bronchitis,Persistent Cough,Lung Function Reduced,Further Testing
+Pneumonia,Chest Pain+Shortness of Breath,Chest X-ray Abnormal,Aggressive Treatment
+No Disease,No Symptoms,Normal,Observation
+Influenza,Cough+Headache,Inconclusive,Further Testing
+Pneumonia,Chest Pain+Shortness of Breath,Inflammatory Markers High,Aggressive Treatment
+Influenza,Fever+Cough,Inconclusive,Further Testing
+Influenza,Fever+Cough,Inconclusive,Further Testing
+No Disease,No Symptoms,Normal,Observation
+No Disease,No Symptoms,Normal,Observation
+Pneumonia,High Fever+Cough,Inflammatory Markers High,Aggressive Treatment
+Bronchitis,Persistent Cough,Lung Function Reduced,Further Testing
+Influenza,Fever+Fatigue,Positive Flu,Standard Treatment
+No Disease,No Symptoms,Normal,Observation
+No Disease,Mild Cough,Normal,Observation
+Pneumonia,Chest Pain+Shortness of Breath,Chest X-ray Abnormal,Aggressive Treatment
+Pneumonia,Chest Pain+Shortness of Breath,Inflammatory Markers High,Aggressive Treatment
+Pneumonia,Chest Pain+Shortness of Breath,Chest X-ray Abnormal,Aggressive Treatment
+Pneumonia,High Fever+Cough,Chest X-ray Abnormal,Aggressive Treatment
+Influenza,Fever+Fatigue,Inconclusive,Further Testing
+No Disease,No Symptoms,Normal,Observation
+No Disease,No Symptoms,Normal,Observation
+Pneumonia,High Fever+Cough,Chest X-ray Abnormal,Aggressive Treatment
+Influenza,Fever+Cough,Inconclusive,Further Testing
+No Disease,No Symptoms,Borderline,Further Testing
+No Disease,No Symptoms,Normal,Observation
+Influenza,Fever+Cough,Inconclusive,Further Testing
+No Disease,No Symptoms,Normal,Observation
+No Disease,Mild Cough,Borderline,Further Testing
+Influenza,Fever+Cough,Inconclusive,Further Testing
+Influenza,Fever+Cough,Inconclusive,Further Testing
+Influenza,Fever+Cough,Positive Flu,Standard Treatment
+No Disease,No Symptoms,Borderline,Further Testing
+Pneumonia,Chest Pain+Shortness of Breath,Inflammatory Markers High,Aggressive Treatment
+No Disease,No Symptoms,Normal,Observation
+No Disease,No Symptoms,Normal,Observation
+Pneumonia,Chest Pain+Shortness of Breath,Chest X-ray Abnormal,Aggressive Treatment
+Influenza,Fever+Fatigue,Inconclusive,Further Testing
+Pneumonia,High Fever+Cough,Chest X-ray Abnormal,Aggressive Treatment
+Influenza,Cough+Headache,Inconclusive,Further Testing
+Influenza,Fever+Cough,Positive Flu,Standard Treatment
+No Disease,No Symptoms,Normal,Observation
+No Disease,Mild Cough,Normal,Observation
+No Disease,No Symptoms,Normal,Observation
+No Disease,No Symptoms,Normal,Observation
+Bronchitis,Persistent Cough,Lung Function Reduced,Further Testing
+No Disease,No Symptoms,Normal,Observation
+Pneumonia,Chest Pain+Shortness of Breath,Chest X-ray Abnormal,Aggressive Treatment
+Influenza,Fever+Cough,Positive Flu,Standard Treatment
+Pneumonia,Chest Pain+Shortness of Breath,Inflammatory Markers High,Aggressive Treatment
+Influenza,Fever+Cough,Positive Flu,Standard Treatment
+Influenza,Fever+Cough,Inconclusive,Further Testing
+Influenza,Fever+Cough,Inconclusive,Further Testing
+No Disease,No Symptoms,Normal,Observation
+Pneumonia,High Fever+Cough,Chest X-ray Abnormal,Aggressive Treatment
+No Disease,Mild Cough,Normal,Observation
+No Disease,No Symptoms,Normal,Observation
+Influenza,Cough+Headache,Positive Flu,Standard Treatment
+No Disease,No Symptoms,Normal,Observation
+Bronchitis,Cough+Wheezing,Lung Function Reduced,Further Testing
+Bronchitis,Cough+Wheezing,Lung Function Reduced,Further Testing
+Bronchitis,Cough+Wheezing,Lung Function Reduced,Further Testing
+No Disease,Mild Cough,Borderline,Further Testing
+No Disease,No Symptoms,Normal,Observation
+Bronchitis,Persistent Cough,Lung Function Reduced,Further Testing
+Influenza,Fever+Cough,Positive Flu,Standard Treatment
+Bronchitis,Persistent Cough,Normal,Further Testing
+Bronchitis,Cough+Wheezing,Lung Function Reduced,Further Testing
+Pneumonia,Chest Pain+Shortness of Breath,Chest X-ray Abnormal,Aggressive Treatment
+No Disease,No Symptoms,Normal,Observation
+No Disease,No Symptoms,Borderline,Further Testing
+Pneumonia,High Fever+Cough,Inflammatory Markers High,Aggressive Treatment
+No Disease,No Symptoms,Normal,Observation
+No Disease,No Symptoms,Normal,Observation
+Influenza,Fever+Cough,Positive Flu,Standard Treatment
+Bronchitis,Persistent Cough,Lung Function Reduced,Further Testing
+Influenza,Fever+Cough,Positive Flu,Standard Treatment
+Influenza,Fever+Cough,Positive Flu,Standard Treatment
+No Disease,No Symptoms,Normal,Observation
+Influenza,Fever+Cough,Inconclusive,Further Testing
+Bronchitis,Cough+Wheezing,Lung Function Reduced,Further Testing
+No Disease,No Symptoms,Normal,Observation
+Influenza,Fever+Cough,Positive Flu,Standard Treatment
+Pneumonia,High Fever+Cough,Inflammatory Markers High,Aggressive Treatment
+Pneumonia,High Fever+Cough,Inflammatory Markers High,Aggressive Treatment
+Influenza,Fever+Cough,Positive Flu,Standard Treatment
+Pneumonia,High Fever+Cough,Inflammatory Markers High,Aggressive Treatment
+No Disease,No Symptoms,Normal,Observation
+No Disease,No Symptoms,Normal,Observation
+Pneumonia,Chest Pain+Shortness of Breath,Chest X-ray Abnormal,Aggressive Treatment
+Pneumonia,Chest Pain+Shortness of Breath,Chest X-ray Abnormal,Aggressive Treatment
+Pneumonia,Chest Pain+Shortness of Breath,Chest X-ray Abnormal,Aggressive Treatment
+Bronchitis,Persistent Cough,Lung Function Reduced,Further Testing
+Influenza,Fever+Cough,Inconclusive,Further Testing
+Influenza,Fever+Cough,Positive Flu,Standard Treatment
+Pneumonia,High Fever+Cough,Inflammatory Markers High,Aggressive Treatment
+Influenza,Cough+Headache,Positive Flu,Standard Treatment
+Pneumonia,High Fever+Cough,Inflammatory Markers High,Aggressive Treatment
+Pneumonia,High Fever+Cough,Chest X-ray Abnormal,Aggressive Treatment
+Pneumonia,Chest Pain+Shortness of Breath,Chest X-ray Abnormal,Aggressive Treatment
+No Disease,No Symptoms,Normal,Observation
+No Disease,No Symptoms,Normal,Observation
+No Disease,No Symptoms,Normal,Observation
+Influenza,Fever+Cough,Positive Flu,Standard Treatment
+No Disease,No Symptoms,Normal,Observation
+Influenza,Fever+Cough,Inconclusive,Further Testing
+Influenza,Fever+Cough,Positive Flu,Standard Treatment
+No Disease,No Symptoms,Normal,Observation
+Influenza,Fever+Cough,Positive Flu,Standard Treatment
+No Disease,No Symptoms,Normal,Observation
+No Disease,No Symptoms,Normal,Observation
+Pneumonia,High Fever+Cough,Chest X-ray Abnormal,Aggressive Treatment
+No Disease,No Symptoms,Normal,Observation
+No Disease,Mild Cough,Normal,Observation
+Influenza,Fever+Cough,Positive Flu,Standard Treatment
+Pneumonia,High Fever+Cough,Chest X-ray Abnormal,Aggressive Treatment
+No Disease,No Symptoms,Normal,Observation
+Influenza,Fever+Fatigue,Positive Flu,Standard Treatment
+No Disease,No Symptoms,Normal,Observation
+No Disease,No Symptoms,Normal,Observation
+Influenza,Cough+Headache,Positive Flu,Standard Treatment
+Influenza,Fever+Cough,Positive Flu,Standard Treatment
+Influenza,Fever+Fatigue,Positive Flu,Standard Treatment
+Pneumonia,Chest Pain+Shortness of Breath,Inflammatory Markers High,Aggressive Treatment
+Bronchitis,Cough+Wheezing,Lung Function Reduced,Further Testing
+Influenza,Fever+Fatigue,Positive Flu,Standard Treatment
+No Disease,Mild Cough,Normal,Observation
+Pneumonia,High Fever+Cough,Chest X-ray Abnormal,Aggressive Treatment
+No Disease,Mild Cough,Normal,Observation
+Influenza,Fever+Cough,Positive Flu,Standard Treatment
+No Disease,Mild Cough,Normal,Observation
+No Disease,No Symptoms,Normal,Observation
+Bronchitis,Cough+Wheezing,Lung Function Reduced,Further Testing
+Pneumonia,High Fever+Cough,Inflammatory Markers High,Aggressive Treatment
+Influenza,Fever+Fatigue,Positive Flu,Standard Treatment
+Influenza,Fever+Fatigue,Positive Flu,Standard Treatment
+No Disease,No Symptoms,Normal,Observation
+No Disease,No Symptoms,Normal,Observation
+No Disease,No Symptoms,Normal,Observation
+Influenza,Fever+Cough,Inconclusive,Further Testing
+Pneumonia,High Fever+Cough,Inflammatory Markers High,Aggressive Treatment
+Influenza,Cough+Headache,Positive Flu,Standard Treatment
+No Disease,No Symptoms,Normal,Observation
+Bronchitis,Cough+Wheezing,Normal,Further Testing
+Pneumonia,High Fever+Cough,Inflammatory Markers High,Aggressive Treatment
+Influenza,Fever+Cough,Inconclusive,Further Testing
+Influenza,Fever+Fatigue,Positive Flu,Standard Treatment
+Influenza,Fever+Fatigue,Positive Flu,Standard Treatment
+No Disease,No Symptoms,Normal,Observation
+No Disease,No Symptoms,Normal,Observation
+Pneumonia,Chest Pain+Shortness of Breath,Chest X-ray Abnormal,Aggressive Treatment
+No Disease,No Symptoms,Normal,Observation
+No Disease,Mild Cough,Normal,Observation
+No Disease,Mild Cough,Normal,Observation
+No Disease,No Symptoms,Normal,Observation
+Pneumonia,High Fever+Cough,Chest X-ray Abnormal,Aggressive Treatment
+Pneumonia,Chest Pain+Shortness of Breath,Chest X-ray Abnormal,Aggressive Treatment
+Influenza,Fever+Cough,Positive Flu,Standard Treatment
+No Disease,No Symptoms,Normal,Observation
+Influenza,Fever+Cough,Inconclusive,Further Testing
+Influenza,Fever+Cough,Positive Flu,Standard Treatment
+No Disease,Mild Cough,Normal,Observation
+Influenza,Fever+Fatigue,Positive Flu,Standard Treatment
+No Disease,No Symptoms,Borderline,Further Testing
+Influenza,Fever+Cough,Positive Flu,Standard Treatment
+Influenza,Fever+Cough,Positive Flu,Standard Treatment
+No Disease,No Symptoms,Normal,Observation
+No Disease,Mild Cough,Normal,Observation
+Influenza,Fever+Cough,Positive Flu,Standard Treatment
+Influenza,Cough+Headache,Positive Flu,Standard Treatment
+Pneumonia,High Fever+Cough,Inflammatory Markers High,Aggressive Treatment
+Influenza,Fever+Cough,Positive Flu,Standard Treatment
+No Disease,No Symptoms,Normal,Observation
+No Disease,No Symptoms,Normal,Observation
+Influenza,Cough+Headache,Positive Flu,Standard Treatment
+No Disease,Mild Cough,Borderline,Further Testing
+Influenza,Fever+Cough,Positive Flu,Standard Treatment
+Bronchitis,Persistent Cough,Lung Function Reduced,Further Testing
+Influenza,Fever+Fatigue,Positive Flu,Standard Treatment
+No Disease,Mild Cough,Normal,Observation
+Influenza,Fever+Cough,Positive Flu,Standard Treatment
+Influenza,Fever+Fatigue,Positive Flu,Standard Treatment
+Influenza,Fever+Fatigue,Positive Flu,Standard Treatment
+Bronchitis,Cough+Wheezing,Lung Function Reduced,Further Testing
+No Disease,No Symptoms,Normal,Observation
+Bronchitis,Cough+Wheezing,Lung Function Reduced,Further Testing
+Bronchitis,Cough+Wheezing,Lung Function Reduced,Further Testing
+No Disease,No Symptoms,Normal,Observation
+No Disease,No Symptoms,Normal,Observation
+No Disease,Mild Cough,Normal,Observation
+No Disease,No Symptoms,Normal,Observation
+No Disease,Mild Cough,Normal,Observation
+Influenza,Fever+Cough,Positive Flu,Standard Treatment
+No Disease,No Symptoms,Normal,Observation
+No Disease,Mild Cough,Normal,Observation
+Pneumonia,High Fever+Cough,Chest X-ray Abnormal,Aggressive Treatment
+No Disease,No Symptoms,Normal,Observation
+Pneumonia,High Fever+Cough,Chest X-ray Abnormal,Aggressive Treatment
+No Disease,No Symptoms,Normal,Observation
+No Disease,No Symptoms,Normal,Observation
+Influenza,Fever+Cough,Inconclusive,Further Testing
+Influenza,Cough+Headache,Inconclusive,Further Testing
+Pneumonia,High Fever+Cough,Chest X-ray Abnormal,Aggressive Treatment
+Pneumonia,Chest Pain+Shortness of Breath,Chest X-ray Abnormal,Aggressive Treatment
+Pneumonia,High Fever+Cough,Chest X-ray Abnormal,Aggressive Treatment
+No Disease,No Symptoms,Normal,Observation
+No Disease,No Symptoms,Normal,Observation
+Pneumonia,Chest Pain+Shortness of Breath,Inflammatory Markers High,Aggressive Treatment
+Pneumonia,High Fever+Cough,Inflammatory Markers High,Aggressive Treatment
+Bronchitis,Persistent Cough,Lung Function Reduced,Further Testing
+Influenza,Fever+Cough,Positive Flu,Standard Treatment
+No Disease,No Symptoms,Normal,Observation
+Pneumonia,High Fever+Cough,Chest X-ray Abnormal,Aggressive Treatment
+No Disease,No Symptoms,Normal,Observation
+Bronchitis,Cough+Wheezing,Lung Function Reduced,Further Testing
+Pneumonia,High Fever+Cough,Chest X-ray Abnormal,Aggressive Treatment
+Influenza,Fever+Cough,Positive Flu,Standard Treatment
+Pneumonia,Chest Pain+Shortness of Breath,Inflammatory Markers High,Aggressive Treatment
+Pneumonia,Chest Pain+Shortness of Breath,Inflammatory Markers High,Aggressive Treatment
+No Disease,No Symptoms,Normal,Observation
+Bronchitis,Persistent Cough,Lung Function Reduced,Further Testing
+Influenza,Fever+Cough,Positive Flu,Standard Treatment
+Pneumonia,Chest Pain+Shortness of Breath,Chest X-ray Abnormal,Aggressive Treatment
+No Disease,No Symptoms,Normal,Observation
+Pneumonia,High Fever+Cough,Inflammatory Markers High,Aggressive Treatment
+No Disease,Mild Cough,Normal,Observation
+No Disease,Mild Cough,Normal,Observation
+Bronchitis,Persistent Cough,Normal,Further Testing
+No Disease,Mild Cough,Normal,Observation
+No Disease,No Symptoms,Normal,Observation
+Bronchitis,Persistent Cough,Lung Function Reduced,Further Testing
+Bronchitis,Persistent Cough,Lung Function Reduced,Further Testing
+Influenza,Fever+Cough,Positive Flu,Standard Treatment
+Influenza,Fever+Fatigue,Positive Flu,Standard Treatment
+Influenza,Cough+Headache,Inconclusive,Further Testing
+No Disease,No Symptoms,Normal,Observation
+No Disease,No Symptoms,Normal,Observation
+Influenza,Fever+Cough,Positive Flu,Standard Treatment
+Pneumonia,Chest Pain+Shortness of Breath,Chest X-ray Abnormal,Aggressive Treatment
+Pneumonia,High Fever+Cough,Chest X-ray Abnormal,Aggressive Treatment
+Pneumonia,High Fever+Cough,Chest X-ray Abnormal,Aggressive Treatment
+No Disease,No Symptoms,Normal,Observation
+Influenza,Fever+Cough,Positive Flu,Standard Treatment
+No Disease,Mild Cough,Normal,Observation
+Influenza,Cough+Headache,Inconclusive,Further Testing
+Influenza,Fever+Cough,Positive Flu,Standard Treatment
+Pneumonia,Chest Pain+Shortness of Breath,Inflammatory Markers High,Aggressive Treatment
+No Disease,No Symptoms,Normal,Observation
+No Disease,Mild Cough,Normal,Observation
+No Disease,No Symptoms,Normal,Observation
+Pneumonia,High Fever+Cough,Inflammatory Markers High,Aggressive Treatment
+Influenza,Fever+Cough,Inconclusive,Further Testing
+No Disease,No Symptoms,Normal,Observation
+No Disease,No Symptoms,Borderline,Further Testing
+Pneumonia,High Fever+Cough,Chest X-ray Abnormal,Aggressive Treatment
+No Disease,No Symptoms,Normal,Observation
+Pneumonia,Chest Pain+Shortness of Breath,Chest X-ray Abnormal,Aggressive Treatment
+Pneumonia,High Fever+Cough,Chest X-ray Abnormal,Aggressive Treatment
+No Disease,No Symptoms,Normal,Observation
+No Disease,Mild Cough,Normal,Observation
+Bronchitis,Persistent Cough,Lung Function Reduced,Further Testing
+No Disease,No Symptoms,Normal,Observation
+No Disease,No Symptoms,Normal,Observation
+Pneumonia,Chest Pain+Shortness of Breath,Chest X-ray Abnormal,Aggressive Treatment
+Bronchitis,Persistent Cough,Lung Function Reduced,Further Testing
+Bronchitis,Persistent Cough,Lung Function Reduced,Further Testing
+Pneumonia,Chest Pain+Shortness of Breath,Chest X-ray Abnormal,Aggressive Treatment
+No Disease,Mild Cough,Normal,Observation
+No Disease,No Symptoms,Normal,Observation
+Pneumonia,High Fever+Cough,Chest X-ray Abnormal,Aggressive Treatment
+Influenza,Fever+Fatigue,Inconclusive,Further Testing
+Influenza,Cough+Headache,Positive Flu,Standard Treatment
+Bronchitis,Persistent Cough,Lung Function Reduced,Further Testing
+No Disease,No Symptoms,Normal,Observation
+Influenza,Cough+Headache,Positive Flu,Standard Treatment
+No Disease,No Symptoms,Normal,Observation
+Influenza,Fever+Fatigue,Positive Flu,Standard Treatment
+No Disease,No Symptoms,Normal,Observation
+No Disease,No Symptoms,Normal,Observation
+No Disease,No Symptoms,Borderline,Further Testing
+Influenza,Fever+Fatigue,Inconclusive,Further Testing
+Pneumonia,High Fever+Cough,Inflammatory Markers High,Aggressive Treatment
+Influenza,Fever+Fatigue,Positive Flu,Standard Treatment
+Bronchitis,Cough+Wheezing,Lung Function Reduced,Further Testing
+No Disease,No Symptoms,Normal,Observation
+No Disease,Mild Cough,Normal,Observation
+Pneumonia,High Fever+Cough,Chest X-ray Abnormal,Aggressive Treatment
+No Disease,Mild Cough,Normal,Observation
+Bronchitis,Cough+Wheezing,Lung Function Reduced,Further Testing
+No Disease,No Symptoms,Normal,Observation
+Bronchitis,Cough+Wheezing,Normal,Further Testing
+No Disease,Mild Cough,Borderline,Further Testing
+Pneumonia,High Fever+Cough,Inflammatory Markers High,Aggressive Treatment
+Influenza,Fever+Cough,Positive Flu,Standard Treatment
+Bronchitis,Persistent Cough,Normal,Further Testing
+No Disease,Mild Cough,Normal,Observation
+Influenza,Fever+Fatigue,Inconclusive,Further Testing
+Bronchitis,Cough+Wheezing,Lung Function Reduced,Further Testing
+Influenza,Fever+Cough,Inconclusive,Further Testing
+Influenza,Cough+Headache,Positive Flu,Standard Treatment
+Influenza,Fever+Cough,Inconclusive,Further Testing
+Influenza,Fever+Fatigue,Inconclusive,Further Testing
+Influenza,Fever+Cough,Positive Flu,Standard Treatment
+Influenza,Fever+Cough,Positive Flu,Standard Treatment
+Bronchitis,Persistent Cough,Normal,Further Testing
+No Disease,No Symptoms,Normal,Observation
+No Disease,No Symptoms,Normal,Observation
+Bronchitis,Persistent Cough,Lung Function Reduced,Further Testing
+Pneumonia,High Fever+Cough,Chest X-ray Abnormal,Aggressive Treatment
+Influenza,Fever+Cough,Positive Flu,Standard Treatment
+Influenza,Fever+Cough,Positive Flu,Standard Treatment
+No Disease,No Symptoms,Normal,Observation
+No Disease,No Symptoms,Normal,Observation
+Influenza,Fever+Fatigue,Positive Flu,Standard Treatment
+No Disease,No Symptoms,Normal,Observation
+Influenza,Fever+Fatigue,Positive Flu,Standard Treatment
+No Disease,No Symptoms,Normal,Observation
+Bronchitis,Persistent Cough,Normal,Further Testing
+Bronchitis,Cough+Wheezing,Lung Function Reduced,Further Testing
+Influenza,Fever+Fatigue,Inconclusive,Further Testing
+Influenza,Fever+Cough,Inconclusive,Further Testing
+No Disease,No Symptoms,Normal,Observation
+Pneumonia,High Fever+Cough,Inflammatory Markers High,Aggressive Treatment
+Influenza,Fever+Cough,Positive Flu,Standard Treatment
+No Disease,No Symptoms,Normal,Observation
+Bronchitis,Persistent Cough,Normal,Further Testing
+Pneumonia,High Fever+Cough,Chest X-ray Abnormal,Aggressive Treatment
+Bronchitis,Persistent Cough,Normal,Further Testing
+Pneumonia,Chest Pain+Shortness of Breath,Inflammatory Markers High,Aggressive Treatment
+Influenza,Cough+Headache,Positive Flu,Standard Treatment
+Influenza,Fever+Fatigue,Inconclusive,Further Testing
+Bronchitis,Cough+Wheezing,Lung Function Reduced,Further Testing
+Pneumonia,High Fever+Cough,Chest X-ray Abnormal,Aggressive Treatment
+No Disease,No Symptoms,Normal,Observation
+No Disease,No Symptoms,Borderline,Further Testing
+No Disease,No Symptoms,Normal,Observation
+Pneumonia,Chest Pain+Shortness of Breath,Chest X-ray Abnormal,Aggressive Treatment
+Bronchitis,Persistent Cough,Lung Function Reduced,Further Testing
+No Disease,Mild Cough,Normal,Observation
+Influenza,Fever+Cough,Positive Flu,Standard Treatment
+No Disease,Mild Cough,Normal,Observation
+Bronchitis,Persistent Cough,Lung Function Reduced,Further Testing
+Pneumonia,High Fever+Cough,Chest X-ray Abnormal,Aggressive Treatment
+Pneumonia,High Fever+Cough,Inflammatory Markers High,Aggressive Treatment
+Influenza,Fever+Cough,Positive Flu,Standard Treatment
+Influenza,Fever+Cough,Positive Flu,Standard Treatment
+No Disease,No Symptoms,Borderline,Further Testing
+No Disease,Mild Cough,Normal,Observation
+Pneumonia,High Fever+Cough,Inflammatory Markers High,Aggressive Treatment
+Pneumonia,High Fever+Cough,Inflammatory Markers High,Aggressive Treatment
+Bronchitis,Persistent Cough,Normal,Further Testing
+Bronchitis,Cough+Wheezing,Lung Function Reduced,Further Testing
+Influenza,Fever+Cough,Positive Flu,Standard Treatment
+Pneumonia,High Fever+Cough,Inflammatory Markers High,Aggressive Treatment
+Bronchitis,Persistent Cough,Normal,Further Testing
+Pneumonia,High Fever+Cough,Inflammatory Markers High,Aggressive Treatment
+No Disease,No Symptoms,Normal,Observation
+Influenza,Fever+Cough,Inconclusive,Further Testing
+No Disease,No Symptoms,Normal,Observation
+Bronchitis,Cough+Wheezing,Lung Function Reduced,Further Testing
+Influenza,Fever+Cough,Inconclusive,Further Testing
+No Disease,No Symptoms,Normal,Observation
+Influenza,Fever+Cough,Positive Flu,Standard Treatment
+Influenza,Cough+Headache,Positive Flu,Standard Treatment
+No Disease,No Symptoms,Normal,Observation
+No Disease,Mild Cough,Normal,Observation
+Influenza,Fever+Fatigue,Positive Flu,Standard Treatment
+Influenza,Fever+Cough,Positive Flu,Standard Treatment
+Pneumonia,Chest Pain+Shortness of Breath,Chest X-ray Abnormal,Aggressive Treatment
+Influenza,Cough+Headache,Positive Flu,Standard Treatment
+Pneumonia,Chest Pain+Shortness of Breath,Chest X-ray Abnormal,Aggressive Treatment
+Influenza,Cough+Headache,Inconclusive,Further Testing
+Influenza,Cough+Headache,Inconclusive,Further Testing
+Pneumonia,High Fever+Cough,Chest X-ray Abnormal,Aggressive Treatment
+Influenza,Fever+Cough,Inconclusive,Further Testing
+No Disease,No Symptoms,Normal,Observation
+No Disease,No Symptoms,Normal,Observation
+Pneumonia,Chest Pain+Shortness of Breath,Chest X-ray Abnormal,Aggressive Treatment
+Influenza,Cough+Headache,Positive Flu,Standard Treatment
+Pneumonia,High Fever+Cough,Inflammatory Markers High,Aggressive Treatment
+No Disease,No Symptoms,Normal,Observation
+No Disease,No Symptoms,Normal,Observation
+No Disease,No Symptoms,Normal,Observation
+No Disease,Mild Cough,Normal,Observation
+Influenza,Fever+Cough,Positive Flu,Standard Treatment
+No Disease,No Symptoms,Normal,Observation
+Influenza,Fever+Cough,Positive Flu,Standard Treatment
+Bronchitis,Persistent Cough,Normal,Further Testing
+No Disease,No Symptoms,Borderline,Further Testing
+Influenza,Fever+Fatigue,Positive Flu,Standard Treatment
+Pneumonia,High Fever+Cough,Inflammatory Markers High,Aggressive Treatment
+No Disease,No Symptoms,Normal,Observation
+Influenza,Cough+Headache,Positive Flu,Standard Treatment
+Pneumonia,High Fever+Cough,Chest X-ray Abnormal,Aggressive Treatment
+Bronchitis,Persistent Cough,Lung Function Reduced,Further Testing
+No Disease,No Symptoms,Borderline,Further Testing
+Bronchitis,Persistent Cough,Lung Function Reduced,Further Testing
+Influenza,Fever+Fatigue,Positive Flu,Standard Treatment
+No Disease,No Symptoms,Normal,Observation
+Influenza,Fever+Cough,Positive Flu,Standard Treatment
+Bronchitis,Persistent Cough,Normal,Further Testing
+Influenza,Fever+Fatigue,Positive Flu,Standard Treatment
+No Disease,No Symptoms,Normal,Observation
+Influenza,Cough+Headache,Positive Flu,Standard Treatment
+No Disease,No Symptoms,Normal,Observation
+No Disease,No Symptoms,Normal,Observation
+No Disease,No Symptoms,Normal,Observation
+No Disease,No Symptoms,Normal,Observation
+No Disease,No Symptoms,Normal,Observation
+No Disease,No Symptoms,Normal,Observation
+Influenza,Cough+Headache,Inconclusive,Further Testing
+No Disease,No Symptoms,Normal,Observation
+No Disease,No Symptoms,Normal,Observation
+Pneumonia,Chest Pain+Shortness of Breath,Chest X-ray Abnormal,Aggressive Treatment
+Influenza,Fever+Fatigue,Inconclusive,Further Testing
+Influenza,Fever+Cough,Positive Flu,Standard Treatment
+No Disease,No Symptoms,Normal,Observation
+No Disease,No Symptoms,Normal,Observation
+No Disease,Mild Cough,Normal,Observation
+No Disease,No Symptoms,Normal,Observation
+No Disease,No Symptoms,Normal,Observation
+No Disease,No Symptoms,Normal,Observation
+No Disease,No Symptoms,Normal,Observation
+No Disease,No Symptoms,Normal,Observation
+Influenza,Fever+Fatigue,Positive Flu,Standard Treatment
+No Disease,No Symptoms,Normal,Observation
+No Disease,Mild Cough,Normal,Observation
+Influenza,Fever+Cough,Inconclusive,Further Testing
+Influenza,Fever+Fatigue,Positive Flu,Standard Treatment
+No Disease,Mild Cough,Normal,Observation
+Pneumonia,Chest Pain+Shortness of Breath,Chest X-ray Abnormal,Aggressive Treatment
+Influenza,Fever+Fatigue,Positive Flu,Standard Treatment
+No Disease,No Symptoms,Normal,Observation
+Pneumonia,High Fever+Cough,Chest X-ray Abnormal,Aggressive Treatment
+Bronchitis,Persistent Cough,Lung Function Reduced,Further Testing
+No Disease,Mild Cough,Normal,Observation
+No Disease,No Symptoms,Normal,Observation
+Pneumonia,High Fever+Cough,Inflammatory Markers High,Aggressive Treatment
+Pneumonia,Chest Pain+Shortness of Breath,Chest X-ray Abnormal,Aggressive Treatment
+No Disease,No Symptoms,Normal,Observation
+No Disease,No Symptoms,Normal,Observation
+No Disease,No Symptoms,Normal,Observation
+Influenza,Cough+Headache,Inconclusive,Further Testing
+Influenza,Fever+Cough,Positive Flu,Standard Treatment
+No Disease,No Symptoms,Borderline,Further Testing
+Influenza,Fever+Cough,Positive Flu,Standard Treatment
+Pneumonia,High Fever+Cough,Inflammatory Markers High,Aggressive Treatment
+No Disease,No Symptoms,Normal,Observation
+No Disease,No Symptoms,Normal,Observation
+Pneumonia,Chest Pain+Shortness of Breath,Inflammatory Markers High,Aggressive Treatment
+Pneumonia,High Fever+Cough,Inflammatory Markers High,Aggressive Treatment
+Influenza,Fever+Fatigue,Positive Flu,Standard Treatment
+Influenza,Fever+Fatigue,Positive Flu,Standard Treatment
+No Disease,Mild Cough,Normal,Observation
+Influenza,Fever+Cough,Positive Flu,Standard Treatment
+Influenza,Fever+Cough,Inconclusive,Further Testing
+No Disease,No Symptoms,Normal,Observation
+No Disease,Mild Cough,Borderline,Further Testing
+No Disease,Mild Cough,Normal,Observation
+No Disease,No Symptoms,Normal,Observation
+No Disease,Mild Cough,Normal,Observation
+No Disease,No Symptoms,Normal,Observation
+No Disease,No Symptoms,Normal,Observation
+No Disease,No Symptoms,Normal,Observation
+Pneumonia,Chest Pain+Shortness of Breath,Chest X-ray Abnormal,Aggressive Treatment
+Influenza,Fever+Cough,Inconclusive,Further Testing
+Influenza,Cough+Headache,Positive Flu,Standard Treatment
+Pneumonia,Chest Pain+Shortness of Breath,Chest X-ray Abnormal,Aggressive Treatment
+Influenza,Fever+Fatigue,Positive Flu,Standard Treatment
+No Disease,No Symptoms,Normal,Observation
+Influenza,Fever+Cough,Positive Flu,Standard Treatment
+Influenza,Fever+Cough,Positive Flu,Standard Treatment
+Pneumonia,High Fever+Cough,Chest X-ray Abnormal,Aggressive Treatment
+Influenza,Fever+Cough,Inconclusive,Further Testing
+No Disease,Mild Cough,Normal,Observation
+No Disease,No Symptoms,Normal,Observation
+No Disease,No Symptoms,Normal,Observation
+Influenza,Fever+Cough,Positive Flu,Standard Treatment
+Influenza,Fever+Cough,Positive Flu,Standard Treatment
+No Disease,No Symptoms,Normal,Observation
+Bronchitis,Persistent Cough,Normal,Further Testing
+Influenza,Cough+Headache,Positive Flu,Standard Treatment
+No Disease,No Symptoms,Normal,Observation
+No Disease,Mild Cough,Normal,Observation
+No Disease,Mild Cough,Normal,Observation
+No Disease,No Symptoms,Normal,Observation
+No Disease,Mild Cough,Normal,Observation
+No Disease,No Symptoms,Normal,Observation
+No Disease,Mild Cough,Normal,Observation
+No Disease,No Symptoms,Normal,Observation
+Pneumonia,Chest Pain+Shortness of Breath,Chest X-ray Abnormal,Aggressive Treatment
+No Disease,Mild Cough,Normal,Observation
+Influenza,Cough+Headache,Positive Flu,Standard Treatment
+Influenza,Fever+Fatigue,Inconclusive,Further Testing
+Bronchitis,Persistent Cough,Lung Function Reduced,Further Testing
+No Disease,No Symptoms,Normal,Observation
+No Disease,No Symptoms,Normal,Observation
+Bronchitis,Persistent Cough,Lung Function Reduced,Further Testing
+Pneumonia,Chest Pain+Shortness of Breath,Chest X-ray Abnormal,Aggressive Treatment
+Pneumonia,High Fever+Cough,Chest X-ray Abnormal,Aggressive Treatment
+No Disease,Mild Cough,Normal,Observation
+No Disease,No Symptoms,Normal,Observation
+Influenza,Cough+Headache,Positive Flu,Standard Treatment
+Bronchitis,Persistent Cough,Lung Function Reduced,Further Testing
+Influenza,Cough+Headache,Positive Flu,Standard Treatment
+Influenza,Cough+Headache,Positive Flu,Standard Treatment
+No Disease,No Symptoms,Normal,Observation
+Pneumonia,Chest Pain+Shortness of Breath,Chest X-ray Abnormal,Aggressive Treatment
+No Disease,No Symptoms,Normal,Observation
+No Disease,No Symptoms,Normal,Observation
+Influenza,Fever+Fatigue,Positive Flu,Standard Treatment
+Influenza,Fever+Cough,Positive Flu,Standard Treatment
+No Disease,No Symptoms,Normal,Observation
+No Disease,No Symptoms,Borderline,Further Testing
+Influenza,Fever+Cough,Positive Flu,Standard Treatment
+No Disease,No Symptoms,Normal,Observation
+Influenza,Fever+Cough,Positive Flu,Standard Treatment
+No Disease,Mild Cough,Normal,Observation
+Influenza,Fever+Fatigue,Inconclusive,Further Testing
+Influenza,Cough+Headache,Positive Flu,Standard Treatment
+No Disease,No Symptoms,Borderline,Further Testing
+No Disease,No Symptoms,Normal,Observation
+No Disease,No Symptoms,Normal,Observation
+No Disease,No Symptoms,Normal,Observation
+Bronchitis,Persistent Cough,Normal,Further Testing
+No Disease,No Symptoms,Normal,Observation
+Pneumonia,High Fever+Cough,Chest X-ray Abnormal,Aggressive Treatment
+No Disease,No Symptoms,Normal,Observation
+Influenza,Fever+Fatigue,Positive Flu,Standard Treatment
+Pneumonia,High Fever+Cough,Inflammatory Markers High,Aggressive Treatment
+Influenza,Fever+Cough,Positive Flu,Standard Treatment
+Influenza,Fever+Fatigue,Positive Flu,Standard Treatment
+Influenza,Fever+Cough,Positive Flu,Standard Treatment
+No Disease,No Symptoms,Normal,Observation
+Bronchitis,Cough+Wheezing,Lung Function Reduced,Further Testing
+Pneumonia,High Fever+Cough,Inflammatory Markers High,Aggressive Treatment
+Bronchitis,Persistent Cough,Normal,Further Testing
+No Disease,Mild Cough,Normal,Observation
+Pneumonia,High Fever+Cough,Chest X-ray Abnormal,Aggressive Treatment
+Bronchitis,Persistent Cough,Normal,Further Testing
+No Disease,No Symptoms,Normal,Observation
+No Disease,No Symptoms,Normal,Observation
+Pneumonia,High Fever+Cough,Chest X-ray Abnormal,Aggressive Treatment
+Influenza,Fever+Fatigue,Positive Flu,Standard Treatment
+Pneumonia,High Fever+Cough,Chest X-ray Abnormal,Aggressive Treatment
+No Disease,No Symptoms,Normal,Observation
+Pneumonia,Chest Pain+Shortness of Breath,Chest X-ray Abnormal,Aggressive Treatment
+No Disease,Mild Cough,Normal,Observation
+No Disease,No Symptoms,Normal,Observation
+No Disease,No Symptoms,Normal,Observation
+Pneumonia,Chest Pain+Shortness of Breath,Chest X-ray Abnormal,Aggressive Treatment
+Influenza,Fever+Fatigue,Positive Flu,Standard Treatment
+Influenza,Fever+Cough,Inconclusive,Further Testing
+No Disease,No Symptoms,Borderline,Further Testing
+Pneumonia,Chest Pain+Shortness of Breath,Inflammatory Markers High,Aggressive Treatment
+No Disease,No Symptoms,Borderline,Further Testing
+Pneumonia,High Fever+Cough,Chest X-ray Abnormal,Aggressive Treatment
+Influenza,Fever+Cough,Inconclusive,Further Testing
+No Disease,No Symptoms,Normal,Observation
+Influenza,Cough+Headache,Positive Flu,Standard Treatment
+No Disease,No Symptoms,Normal,Observation
+Pneumonia,Chest Pain+Shortness of Breath,Chest X-ray Abnormal,Aggressive Treatment
+Influenza,Fever+Cough,Positive Flu,Standard Treatment
+No Disease,No Symptoms,Normal,Observation
+Pneumonia,High Fever+Cough,Inflammatory Markers High,Aggressive Treatment
+No Disease,No Symptoms,Normal,Observation
+Influenza,Fever+Cough,Positive Flu,Standard Treatment
+Bronchitis,Cough+Wheezing,Normal,Further Testing
+Influenza,Fever+Cough,Positive Flu,Standard Treatment
+No Disease,No Symptoms,Normal,Observation
+Bronchitis,Persistent Cough,Lung Function Reduced,Further Testing
+Influenza,Fever+Cough,Positive Flu,Standard Treatment
+No Disease,No Symptoms,Normal,Observation
+No Disease,Mild Cough,Borderline,Further Testing
+Pneumonia,Chest Pain+Shortness of Breath,Chest X-ray Abnormal,Aggressive Treatment
+Influenza,Cough+Headache,Positive Flu,Standard Treatment
+Influenza,Fever+Cough,Inconclusive,Further Testing
+Pneumonia,High Fever+Cough,Inflammatory Markers High,Aggressive Treatment
+Pneumonia,High Fever+Cough,Chest X-ray Abnormal,Aggressive Treatment
+No Disease,No Symptoms,Normal,Observation
+No Disease,Mild Cough,Normal,Observation
+No Disease,No Symptoms,Normal,Observation
+Pneumonia,High Fever+Cough,Chest X-ray Abnormal,Aggressive Treatment
+No Disease,No Symptoms,Normal,Observation
+Influenza,Fever+Cough,Inconclusive,Further Testing
+Pneumonia,Chest Pain+Shortness of Breath,Chest X-ray Abnormal,Aggressive Treatment
+Pneumonia,High Fever+Cough,Chest X-ray Abnormal,Aggressive Treatment
+No Disease,No Symptoms,Normal,Observation
+Pneumonia,High Fever+Cough,Inflammatory Markers High,Aggressive Treatment
+No Disease,No Symptoms,Normal,Observation
+Pneumonia,Chest Pain+Shortness of Breath,Chest X-ray Abnormal,Aggressive Treatment
+No Disease,Mild Cough,Normal,Observation
+No Disease,Mild Cough,Normal,Observation
+Pneumonia,Chest Pain+Shortness of Breath,Chest X-ray Abnormal,Aggressive Treatment
+No Disease,No Symptoms,Normal,Observation
+No Disease,No Symptoms,Normal,Observation
+Pneumonia,High Fever+Cough,Chest X-ray Abnormal,Aggressive Treatment
+Pneumonia,High Fever+Cough,Chest X-ray Abnormal,Aggressive Treatment
+Influenza,Cough+Headache,Positive Flu,Standard Treatment
+Influenza,Fever+Cough,Positive Flu,Standard Treatment
+Influenza,Cough+Headache,Inconclusive,Further Testing
+No Disease,No Symptoms,Borderline,Further Testing
+No Disease,No Symptoms,Normal,Observation
+No Disease,No Symptoms,Normal,Observation
+Bronchitis,Cough+Wheezing,Lung Function Reduced,Further Testing
+Influenza,Fever+Fatigue,Inconclusive,Further Testing
+Influenza,Fever+Fatigue,Positive Flu,Standard Treatment
+Influenza,Fever+Cough,Inconclusive,Further Testing
+Bronchitis,Persistent Cough,Normal,Further Testing
+No Disease,No Symptoms,Normal,Observation
+Influenza,Fever+Fatigue,Inconclusive,Further Testing
+Influenza,Fever+Fatigue,Positive Flu,Standard Treatment
+Influenza,Fever+Fatigue,Positive Flu,Standard Treatment
+No Disease,No Symptoms,Normal,Observation
+Pneumonia,High Fever+Cough,Chest X-ray Abnormal,Aggressive Treatment
+Bronchitis,Cough+Wheezing,Lung Function Reduced,Further Testing
+Influenza,Fever+Cough,Positive Flu,Standard Treatment
+Influenza,Fever+Cough,Inconclusive,Further Testing
+Bronchitis,Persistent Cough,Lung Function Reduced,Further Testing
+Pneumonia,Chest Pain+Shortness of Breath,Inflammatory Markers High,Aggressive Treatment
+No Disease,No Symptoms,Borderline,Further Testing
+Influenza,Fever+Cough,Inconclusive,Further Testing
+Influenza,Fever+Cough,Inconclusive,Further Testing
+Influenza,Fever+Cough,Positive Flu,Standard Treatment
+Pneumonia,Chest Pain+Shortness of Breath,Inflammatory Markers High,Aggressive Treatment
+Bronchitis,Persistent Cough,Lung Function Reduced,Further Testing
+Bronchitis,Persistent Cough,Lung Function Reduced,Further Testing
+Influenza,Fever+Cough,Positive Flu,Standard Treatment
+No Disease,No Symptoms,Normal,Observation
+Bronchitis,Persistent Cough,Lung Function Reduced,Further Testing
+Pneumonia,Chest Pain+Shortness of Breath,Inflammatory Markers High,Aggressive Treatment
+No Disease,No Symptoms,Normal,Observation
+Bronchitis,Persistent Cough,Lung Function Reduced,Further Testing
+Pneumonia,High Fever+Cough,Chest X-ray Abnormal,Aggressive Treatment
+Influenza,Cough+Headache,Inconclusive,Further Testing
+Influenza,Fever+Cough,Positive Flu,Standard Treatment
+No Disease,No Symptoms,Normal,Observation
+No Disease,No Symptoms,Normal,Observation
+No Disease,No Symptoms,Normal,Observation
+Pneumonia,High Fever+Cough,Inflammatory Markers High,Aggressive Treatment
+No Disease,No Symptoms,Normal,Observation
+No Disease,No Symptoms,Normal,Observation
+No Disease,No Symptoms,Normal,Observation
+Influenza,Fever+Fatigue,Positive Flu,Standard Treatment
+Bronchitis,Persistent Cough,Normal,Further Testing
+No Disease,No Symptoms,Normal,Observation
+No Disease,Mild Cough,Normal,Observation
+Pneumonia,Chest Pain+Shortness of Breath,Chest X-ray Abnormal,Aggressive Treatment
+Influenza,Fever+Cough,Positive Flu,Standard Treatment
+No Disease,Mild Cough,Normal,Observation
+Influenza,Fever+Fatigue,Positive Flu,Standard Treatment
+No Disease,No Symptoms,Normal,Observation
+No Disease,No Symptoms,Normal,Observation
+Influenza,Cough+Headache,Positive Flu,Standard Treatment
+Influenza,Fever+Fatigue,Inconclusive,Further Testing
+Bronchitis,Persistent Cough,Normal,Further Testing
+No Disease,No Symptoms,Normal,Observation
+Influenza,Cough+Headache,Inconclusive,Further Testing
+Influenza,Fever+Cough,Positive Flu,Standard Treatment
+No Disease,No Symptoms,Normal,Observation
+Influenza,Fever+Cough,Inconclusive,Further Testing
+No Disease,No Symptoms,Borderline,Further Testing
+Bronchitis,Persistent Cough,Normal,Further Testing
+No Disease,Mild Cough,Normal,Observation
+Influenza,Fever+Cough,Positive Flu,Standard Treatment
+No Disease,No Symptoms,Normal,Observation
+Bronchitis,Persistent Cough,Lung Function Reduced,Further Testing
+Influenza,Cough+Headache,Positive Flu,Standard Treatment
+Influenza,Fever+Fatigue,Positive Flu,Standard Treatment
+No Disease,No Symptoms,Normal,Observation
+Pneumonia,Chest Pain+Shortness of Breath,Chest X-ray Abnormal,Aggressive Treatment
+No Disease,Mild Cough,Normal,Observation
+Pneumonia,Chest Pain+Shortness of Breath,Inflammatory Markers High,Aggressive Treatment
+No Disease,Mild Cough,Normal,Observation
+No Disease,No Symptoms,Normal,Observation
+No Disease,No Symptoms,Normal,Observation
+Influenza,Fever+Cough,Positive Flu,Standard Treatment
+Influenza,Cough+Headache,Positive Flu,Standard Treatment
+No Disease,No Symptoms,Normal,Observation
+Pneumonia,Chest Pain+Shortness of Breath,Inflammatory Markers High,Aggressive Treatment
+Influenza,Fever+Fatigue,Positive Flu,Standard Treatment
+Influenza,Fever+Cough,Inconclusive,Further Testing
+Influenza,Fever+Fatigue,Positive Flu,Standard Treatment
+Influenza,Cough+Headache,Positive Flu,Standard Treatment
+Influenza,Cough+Headache,Positive Flu,Standard Treatment
+No Disease,No Symptoms,Normal,Observation
+No Disease,No Symptoms,Normal,Observation
+Pneumonia,High Fever+Cough,Chest X-ray Abnormal,Aggressive Treatment
+Bronchitis,Cough+Wheezing,Lung Function Reduced,Further Testing
+No Disease,Mild Cough,Normal,Observation
+No Disease,No Symptoms,Borderline,Further Testing
+Influenza,Fever+Fatigue,Inconclusive,Further Testing
+Influenza,Cough+Headache,Positive Flu,Standard Treatment
+No Disease,No Symptoms,Normal,Observation
+No Disease,No Symptoms,Normal,Observation
+Pneumonia,High Fever+Cough,Chest X-ray Abnormal,Aggressive Treatment
+Influenza,Fever+Fatigue,Positive Flu,Standard Treatment
+No Disease,No Symptoms,Normal,Observation
+No Disease,No Symptoms,Normal,Observation
+No Disease,No Symptoms,Normal,Observation
+Influenza,Cough+Headache,Inconclusive,Further Testing
+No Disease,No Symptoms,Normal,Observation
+No Disease,No Symptoms,Normal,Observation
+Pneumonia,High Fever+Cough,Chest X-ray Abnormal,Aggressive Treatment
+No Disease,No Symptoms,Borderline,Further Testing
+Influenza,Fever+Cough,Positive Flu,Standard Treatment
+No Disease,No Symptoms,Normal,Observation
+No Disease,No Symptoms,Normal,Observation
+No Disease,Mild Cough,Normal,Observation
+Pneumonia,High Fever+Cough,Chest X-ray Abnormal,Aggressive Treatment
+Pneumonia,High Fever+Cough,Inflammatory Markers High,Aggressive Treatment
+Pneumonia,Chest Pain+Shortness of Breath,Inflammatory Markers High,Aggressive Treatment
+No Disease,No Symptoms,Normal,Observation
+Influenza,Fever+Fatigue,Positive Flu,Standard Treatment
+No Disease,No Symptoms,Normal,Observation
+No Disease,No Symptoms,Normal,Observation
+Pneumonia,High Fever+Cough,Chest X-ray Abnormal,Aggressive Treatment
+No Disease,No Symptoms,Normal,Observation
+No Disease,No Symptoms,Normal,Observation
+No Disease,No Symptoms,Normal,Observation
+No Disease,No Symptoms,Normal,Observation
+No Disease,No Symptoms,Normal,Observation
+Influenza,Fever+Cough,Positive Flu,Standard Treatment
+Influenza,Fever+Fatigue,Positive Flu,Standard Treatment
+Pneumonia,High Fever+Cough,Chest X-ray Abnormal,Aggressive Treatment
+Pneumonia,Chest Pain+Shortness of Breath,Inflammatory Markers High,Aggressive Treatment
+No Disease,No Symptoms,Normal,Observation
+No Disease,No Symptoms,Normal,Observation
+No Disease,No Symptoms,Normal,Observation
+Influenza,Fever+Cough,Positive Flu,Standard Treatment
+No Disease,Mild Cough,Normal,Observation
+Influenza,Cough+Headache,Inconclusive,Further Testing
+Influenza,Fever+Cough,Inconclusive,Further Testing
+Influenza,Fever+Cough,Positive Flu,Standard Treatment
+Influenza,Fever+Fatigue,Positive Flu,Standard Treatment
+No Disease,Mild Cough,Normal,Observation
+Bronchitis,Persistent Cough,Normal,Further Testing
+Pneumonia,High Fever+Cough,Chest X-ray Abnormal,Aggressive Treatment
+No Disease,No Symptoms,Normal,Observation
+Pneumonia,Chest Pain+Shortness of Breath,Chest X-ray Abnormal,Aggressive Treatment
+Influenza,Fever+Cough,Inconclusive,Further Testing
+Pneumonia,Chest Pain+Shortness of Breath,Inflammatory Markers High,Aggressive Treatment
+Pneumonia,High Fever+Cough,Chest X-ray Abnormal,Aggressive Treatment
+Influenza,Fever+Fatigue,Positive Flu,Standard Treatment
+No Disease,No Symptoms,Borderline,Further Testing
+No Disease,No Symptoms,Normal,Observation
+Influenza,Fever+Cough,Inconclusive,Further Testing
+Influenza,Fever+Fatigue,Inconclusive,Further Testing
+No Disease,No Symptoms,Normal,Observation
+No Disease,No Symptoms,Normal,Observation
+Pneumonia,High Fever+Cough,Inflammatory Markers High,Aggressive Treatment
+Bronchitis,Persistent Cough,Lung Function Reduced,Further Testing
+Influenza,Fever+Fatigue,Positive Flu,Standard Treatment
+No Disease,No Symptoms,Normal,Observation
+No Disease,Mild Cough,Normal,Observation
+No Disease,No Symptoms,Normal,Observation
+Bronchitis,Cough+Wheezing,Lung Function Reduced,Further Testing
+No Disease,No Symptoms,Borderline,Further Testing
+Influenza,Fever+Cough,Positive Flu,Standard Treatment
+No Disease,No Symptoms,Normal,Observation
+Influenza,Fever+Cough,Positive Flu,Standard Treatment
+Influenza,Fever+Fatigue,Positive Flu,Standard Treatment
+Pneumonia,Chest Pain+Shortness of Breath,Inflammatory Markers High,Aggressive Treatment
+No Disease,No Symptoms,Normal,Observation
+No Disease,No Symptoms,Normal,Observation
+No Disease,No Symptoms,Normal,Observation
+Bronchitis,Persistent Cough,Lung Function Reduced,Further Testing
+Pneumonia,High Fever+Cough,Chest X-ray Abnormal,Aggressive Treatment
+Influenza,Fever+Cough,Inconclusive,Further Testing
+Influenza,Fever+Cough,Inconclusive,Further Testing
+Influenza,Fever+Cough,Positive Flu,Standard Treatment
+No Disease,No Symptoms,Normal,Observation
+Bronchitis,Cough+Wheezing,Lung Function Reduced,Further Testing
+Influenza,Cough+Headache,Inconclusive,Further Testing
+No Disease,Mild Cough,Normal,Observation
+Influenza,Fever+Fatigue,Inconclusive,Further Testing
+No Disease,No Symptoms,Normal,Observation
+No Disease,No Symptoms,Normal,Observation
+Pneumonia,Chest Pain+Shortness of Breath,Inflammatory Markers High,Aggressive Treatment
+No Disease,No Symptoms,Normal,Observation
+Influenza,Fever+Cough,Positive Flu,Standard Treatment
+No Disease,Mild Cough,Normal,Observation
+No Disease,No Symptoms,Borderline,Further Testing
+No Disease,No Symptoms,Normal,Observation
+No Disease,No Symptoms,Normal,Observation
+Pneumonia,High Fever+Cough,Inflammatory Markers High,Aggressive Treatment
+No Disease,No Symptoms,Normal,Observation
+Influenza,Fever+Cough,Inconclusive,Further Testing
+Influenza,Fever+Cough,Positive Flu,Standard Treatment
+Influenza,Fever+Cough,Positive Flu,Standard Treatment
+Bronchitis,Cough+Wheezing,Lung Function Reduced,Further Testing
+Pneumonia,High Fever+Cough,Inflammatory Markers High,Aggressive Treatment
+No Disease,No Symptoms,Normal,Observation
+No Disease,No Symptoms,Normal,Observation
+No Disease,Mild Cough,Normal,Observation
+Influenza,Fever+Cough,Inconclusive,Further Testing
+No Disease,No Symptoms,Normal,Observation
+Influenza,Cough+Headache,Inconclusive,Further Testing
+Influenza,Cough+Headache,Inconclusive,Further Testing
+No Disease,No Symptoms,Normal,Observation
+Pneumonia,Chest Pain+Shortness of Breath,Chest X-ray Abnormal,Aggressive Treatment
+No Disease,No Symptoms,Normal,Observation
+No Disease,No Symptoms,Normal,Observation
+Pneumonia,High Fever+Cough,Chest X-ray Abnormal,Aggressive Treatment
+Influenza,Fever+Cough,Inconclusive,Further Testing
+Influenza,Fever+Fatigue,Positive Flu,Standard Treatment
+Influenza,Fever+Cough,Positive Flu,Standard Treatment
+No Disease,No Symptoms,Normal,Observation
+Pneumonia,Chest Pain+Shortness of Breath,Inflammatory Markers High,Aggressive Treatment
+Pneumonia,Chest Pain+Shortness of Breath,Chest X-ray Abnormal,Aggressive Treatment
+Influenza,Fever+Cough,Inconclusive,Further Testing
+No Disease,No Symptoms,Normal,Observation
+Influenza,Fever+Cough,Positive Flu,Standard Treatment
+No Disease,No Symptoms,Normal,Observation
+No Disease,No Symptoms,Normal,Observation
+Bronchitis,Cough+Wheezing,Lung Function Reduced,Further Testing
+No Disease,No Symptoms,Normal,Observation
+Bronchitis,Persistent Cough,Lung Function Reduced,Further Testing
+Influenza,Fever+Cough,Inconclusive,Further Testing
