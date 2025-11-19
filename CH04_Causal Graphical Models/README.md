@@ -1,4 +1,4 @@
-# Causal Graphical Models - Advanced Exercises
+# Solutions of Advanced Exercises in Chapter 4: Causal Graphical Models - Advanced Exercises
 
 This repository contains solutions to two advanced exercises on Causal Graphical Models from Chapter 4, focusing on causal discovery and counterfactual analysis in medical decision-making scenarios.
 
@@ -9,7 +9,6 @@ This repository contains solutions to two advanced exercises on Causal Graphical
 ├── medical_causal_data.csv          # Simulated medical dataset
 ├── question1_solution.ipynb         # PC algorithm implementation for causal discovery
 ├── question2_solution.ipynb         # Counterfactual analysis comparing P(Y|X) vs P(Y|do(X))
-├── learned_causal_graph.png         # Generated causal graph visualization
 └── README.md                        # This file
 ```
 
