@@ -1,5 +1,7 @@
 # Reproduction and implementation boundaries
 
+**Implemented browser demo:** see [demo/README.md](demo/README.md) and [actual demo validation](demo/evidence/validation.md). The seed instructions below remain valid. The Rails application section describes the future trusted-backend exercise, not the deployed static demo.
+
 ## Supplied seed: no dependency installation
 
 From `ISE-capstone/parking-evidence`:

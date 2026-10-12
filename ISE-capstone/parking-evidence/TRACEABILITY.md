@@ -1,5 +1,7 @@
 # Requirement → rule → implementation → evidence → value
 
+**Implementation update:** the static browser demo now implements these behaviors with simulated principals/providers and browser persistence. See [its acceptance trace](demo/README.md). The table below retains the original Rails/PostgreSQL target status; it must not be read as denying the working browser demo or asserting production guarantees.
+
 Paths under the future student's `app/` are proposed responsibilities, not files provided in this package. Every implemented row needs actual source/test links and a full revision before a student calls it complete.
 
 | Requirement / source | Acceptance criterion / rules | Implementation responsibility | Verification / operation | Package status |

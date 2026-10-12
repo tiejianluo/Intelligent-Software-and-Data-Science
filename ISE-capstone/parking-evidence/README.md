@@ -2,6 +2,8 @@
 
 **An English instructor demonstration for Intelligent Software Engineering, Fall 2026.**
 
+**Now implemented:** [Open the A1–A6 interactive demo](https://tjluo-ucas.github.io/ase/en/capstone/) · [Source, tests and reproduction](demo/README.md). The static teaching application implements the workflow, local persistence, simulated role/provider checks, fault recovery and evidence export. The original Rails/PostgreSQL design remains a separate backend exercise; the browser demo does not claim real payment security or field value.
+
 Build a service that helps a parking attendant reconstruct a parking stay, explain its fee, and distinguish a confirmed payment from an uncertain one. Use the same problem throughout **ISE-A1–ISE-A6**. Do not add six unrelated mini-projects or a seventh assignment.
 
 This case is extracted from four handwritten parking-system pages supplied by the instructor. It preserves their entry/exit, tariff, payment, and Rails ideas while making missing decisions explicit. Read [the source extraction](SCENARIO.md) before accepting any requirement.
@@ -11,11 +13,11 @@ This case is extracted from four handwritten parking-system pages supplied by th
 | Provided here | Must be established by the student team |
 | --- | --- |
 | Source-based scenario, worked hypotheses, domain design, architecture, six assignment guides, task contracts, evaluation protocols | Two independent types of field evidence; operator-approved policy; real user feedback |
-| A runnable Ruby fee calculator with independent example tests and mutation checks | A Rails/PostgreSQL web application, authenticated interfaces, payment simulator, database concurrency tests, browser tests |
-| A ready-to-install CI template for the supplied seed and local links | Application security scans, integration/E2E gates, workload measurements, deployment and rollback evidence |
+| A runnable Ruby fee calculator plus a JavaScript browser demo with domain and browser tests | A trusted Rails/PostgreSQL backend, real authentication/provider adapter and database concurrency tests (the browser simulator and browser tests are implemented) |
+| Ready-to-install CI templates and locally executed demo gates | Application security scans, integration/E2E gates, workload measurements, deployment and rollback evidence |
 | Blank evidence templates and honest execution record | Actual before/after results, field value, individual contributions and assessment submissions |
 
-**This is a worked teaching guide with a tested seed, not a deployed parking product or a completed student submission.** No field interviews, payment-provider integration, user study, production benchmark, or financial savings are claimed. All DEMO examples and numerical thresholds are classroom proposals unless stated otherwise. The implementation backlog is intentionally visible.
+**This package now includes a worked guide, tested Ruby seed and deployed browser teaching demo. It is not a live parking/payment product or a completed student submission.** No field interviews, payment-provider integration, user study, production benchmark, or financial savings are claimed. All DEMO examples and numerical thresholds are classroom proposals unless stated otherwise. The implementation backlog is intentionally visible.
 
 ## Start here
 

@@ -1,0 +1,246 @@
+
+> ise-parking-evidence-demo@1.0.0 check
+> node --check src/app.js && node --check src/domain.js && node --check src/experiments.js && npm test
+
+
+> ise-parking-evidence-demo@1.0.0 test
+> node --test tests/domain.test.mjs
+
+TAP version 13
+# Subtest: independent money oracle 0/1000/1/1
+ok 1 - independent money oracle 0/1000/1/1
+  ---
+  duration_ms: 1.007083
+  type: 'test'
+  ...
+# Subtest: independent money oracle 1/1000/1/1
+ok 2 - independent money oracle 1/1000/1/1
+  ---
+  duration_ms: 0.083875
+  type: 'test'
+  ...
+# Subtest: independent money oracle 3599/1000/1/1
+ok 3 - independent money oracle 3599/1000/1/1
+  ---
+  duration_ms: 0.033417
+  type: 'test'
+  ...
+# Subtest: independent money oracle 3600/1000/1/1
+ok 4 - independent money oracle 3600/1000/1/1
+  ---
+  duration_ms: 0.030083
+  type: 'test'
+  ...
+# Subtest: independent money oracle 3601/1000/1/1
+ok 5 - independent money oracle 3601/1000/1/1
+  ---
+  duration_ms: 0.071125
+  type: 'test'
+  ...
+# Subtest: independent money oracle 1/1/3/2
+ok 6 - independent money oracle 1/1/3/2
+  ---
+  duration_ms: 0.060792
+  type: 'test'
+  ...
+# Subtest: independent money oracle 1/1/1/3
+ok 7 - independent money oracle 1/1/1/3
+  ---
+  duration_ms: 0.027625
+  type: 'test'
+  ...
+# Subtest: independent money oracle 3600/1000/3/2
+ok 8 - independent money oracle 3600/1000/3/2
+  ---
+  duration_ms: 0.025334
+  type: 'test'
+  ...
+# Subtest: independent money oracle 90000/1000/1/1
+ok 9 - independent money oracle 90000/1000/1/1
+  ---
+  duration_ms: 0.252791
+  type: 'test'
+  ...
+# Subtest: reject floats, negative duration, invalid coefficient and overflow
+ok 10 - reject floats, negative duration, invalid coefficient and overflow
+  ---
+  duration_ms: 0.370375
+  type: 'test'
+  ...
+# Subtest: denied action leaves input exactly unchanged
+ok 11 - denied action leaves input exactly unchanged
+  ---
+  duration_ms: 0.342125
+  type: 'test'
+  ...
+# Subtest: same entry key is idempotent; changed input conflicts
+ok 12 - same entry key is idempotent; changed input conflicts
+  ---
+  duration_ms: 0.179708
+  type: 'test'
+  ...
+# Subtest: duplicate active vehicle blocked across distinct keys
+ok 13 - duplicate active vehicle blocked across distinct keys
+  ---
+  duration_ms: 0.094542
+  type: 'test'
+  ...
+# Subtest: driver and cross-lot principal cannot edit another stay
+ok 14 - driver and cross-lot principal cannot edit another stay
+  ---
+  duration_ms: 0.084166
+  type: 'test'
+  ...
+# Subtest: stale version rejected
+ok 15 - stale version rejected
+  ---
+  duration_ms: 0.093042
+  type: 'test'
+  ...
+# Subtest: new tariff applies to new stays; existing stay remains normal
+ok 16 - new tariff applies to new stays; existing stay remains normal
+  ---
+  duration_ms: 0.109208
+  type: 'test'
+  ...
+# Subtest: driver cannot change tariff or create entry
+ok 17 - driver cannot change tariff or create entry
+  ---
+  duration_ms: 0.056875
+  type: 'test'
+  ...
+# Subtest: expiry instant included, one second later rejected
+ok 18 - expiry instant included, one second later rejected
+  ---
+  duration_ms: 0.24375
+  type: 'test'
+  ...
+# Subtest: client paid flag and amount cannot create success or change quote
+ok 19 - client paid flag and amount cannot create success or change quote
+  ---
+  duration_ms: 0.056584
+  type: 'test'
+  ...
+# Subtest: payment retry remains one order, even after reload/expiry
+ok 20 - payment retry remains one order, even after reload/expiry
+  ---
+  duration_ms: 0.110584
+  type: 'test'
+  ...
+# Subtest: authorization checked before idempotency replay
+ok 21 - authorization checked before idempotency replay
+  ---
+  duration_ms: 0.337459
+  type: 'test'
+  ...
+# Subtest: pending attempt blocks replacement quote
+ok 22 - pending attempt blocks replacement quote
+  ---
+  duration_ms: 0.0935
+  type: 'test'
+  ...
+# Subtest: provider mismatch: amount
+ok 23 - provider mismatch: amount
+  ---
+  duration_ms: 0.121042
+  type: 'test'
+  ...
+# Subtest: provider mismatch: currency
+ok 24 - provider mismatch: currency
+  ---
+  duration_ms: 0.043958
+  type: 'test'
+  ...
+# Subtest: provider mismatch: merchant
+ok 25 - provider mismatch: merchant
+  ---
+  duration_ms: 0.040916
+  type: 'test'
+  ...
+# Subtest: provider mismatch: order
+ok 26 - provider mismatch: order
+  ---
+  duration_ms: 0.039209
+  type: 'test'
+  ...
+# Subtest: unverified or browser-issued provider event rejected
+ok 27 - unverified or browser-issued provider event rejected
+  ---
+  duration_ms: 0.070167
+  type: 'test'
+  ...
+# Subtest: duplicate event settles once; changed payload with same ID rejected
+ok 28 - duplicate event settles once; changed payload with same ID rejected
+  ---
+  duration_ms: 0.149041
+  type: 'test'
+  ...
+# Subtest: success never downgraded by later failure
+ok 29 - success never downgraded by later failure
+  ---
+  duration_ms: 0.064834
+  type: 'test'
+  ...
+# Subtest: paid within window but delivered late is accepted; late payment reviewed
+ok 30 - paid within window but delivered late is accepted; late payment reviewed
+  ---
+  duration_ms: 0.118625
+  type: 'test'
+  ...
+# Subtest: timeout survives serialized reload and reconciles existing order
+ok 31 - timeout survives serialized reload and reconciles existing order
+  ---
+  duration_ms: 0.104292
+  type: 'test'
+  ...
+# Subtest: provider unavailable does not turn pending into failure
+ok 32 - provider unavailable does not turn pending into failure
+  ---
+  duration_ms: 0.054459
+  type: 'test'
+  ...
+# Subtest: exit is separate from payment and requires current version
+ok 33 - exit is separate from payment and requires current version
+  ---
+  duration_ms: 0.081667
+  type: 'test'
+  ...
+# Subtest: zero fee requires staff and is idempotent
+ok 34 - zero fee requires staff and is idempotent
+  ---
+  duration_ms: 0.102208
+  type: 'test'
+  ...
+# Subtest: free settlement rejects nonzero quote
+ok 35 - free settlement rejects nonzero quote
+  ---
+  duration_ms: 0.043583
+  type: 'test'
+  ...
+# Subtest: storage corruption is surfaced rather than silently replaced
+ok 36 - storage corruption is surfaced rather than silently replaced
+  ---
+  duration_ms: 0.068833
+  type: 'test'
+  ...
+# Subtest: classroom counterexample suite and legitimate control detect seeded fault
+ok 37 - classroom counterexample suite and legitimate control detect seeded fault
+  ---
+  duration_ms: 1.717666
+  type: 'test'
+  ...
+# Subtest: recovery lab reports synthetic time separately from actual local timings
+ok 38 - recovery lab reports synthetic time separately from actual local timings
+  ---
+  duration_ms: 1.463542
+  type: 'test'
+  ...
+1..38
+# tests 38
+# suites 0
+# pass 38
+# fail 0
+# cancelled 0
+# skipped 0
+# todo 0
+# duration_ms 72.626333

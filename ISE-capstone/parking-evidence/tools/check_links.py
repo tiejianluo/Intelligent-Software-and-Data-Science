@@ -7,7 +7,8 @@ from urllib.parse import unquote
 root = Path(__file__).resolve().parents[1]
 errors = []
 links = 0
-files = list(root.parent.rglob("*.md"))
+excluded = {"node_modules", "dist", "test-results", "playwright-report", ".git"}
+files = [p for p in root.parent.rglob("*.md") if not any(part in excluded for part in p.parts)]
 for path in files:
     for target in re.findall(r"!?\[[^\]]*\]\(([^)]+)\)", path.read_text()):
         target = target.strip().split(' "')[0].strip("<>")

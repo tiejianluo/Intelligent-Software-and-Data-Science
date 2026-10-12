@@ -1,0 +1,892 @@
+{
+  "config": {
+    "configFile": "/Users/abc/Desktop/In-School_Teaching/2026-2027Fall/ISE/SPAIQ_Generated_Fall_2026/Intelligent-Software-and-Data-Science/ISE-capstone/parking-evidence/demo/playwright.config.mjs",
+    "rootDir": "/Users/abc/Desktop/In-School_Teaching/2026-2027Fall/ISE/SPAIQ_Generated_Fall_2026/Intelligent-Software-and-Data-Science/ISE-capstone/parking-evidence/demo/tests",
+    "forbidOnly": false,
+    "fullyParallel": false,
+    "globalSetup": null,
+    "globalTeardown": null,
+    "globalTimeout": 0,
+    "grep": {},
+    "grepInvert": null,
+    "maxFailures": 0,
+    "metadata": {
+      "node": "v22.23.1",
+      "channel": "chrome",
+      "actualWorkers": 1
+    },
+    "preserveOutput": "always",
+    "reporter": [
+      [
+        "list",
+        null
+      ],
+      [
+        "json",
+        {
+          "outputFile": "evidence/browser-results.json"
+        }
+      ]
+    ],
+    "reportSlowTests": {
+      "max": 5,
+      "threshold": 300000
+    },
+    "quiet": false,
+    "projects": [
+      {
+        "outputDir": "/Users/abc/Desktop/In-School_Teaching/2026-2027Fall/ISE/SPAIQ_Generated_Fall_2026/Intelligent-Software-and-Data-Science/ISE-capstone/parking-evidence/demo/test-results",
+        "repeatEach": 1,
+        "retries": 0,
+        "metadata": {
+          "node": "v22.23.1",
+          "channel": "chrome",
+          "actualWorkers": 1
+        },
+        "id": "desktop",
+        "name": "desktop",
+        "testDir": "/Users/abc/Desktop/In-School_Teaching/2026-2027Fall/ISE/SPAIQ_Generated_Fall_2026/Intelligent-Software-and-Data-Science/ISE-capstone/parking-evidence/demo/tests",
+        "testIgnore": [],
+        "testMatch": [
+          "browser.spec.mjs"
+        ],
+        "timeout": 30000
+      },
+      {
+        "outputDir": "/Users/abc/Desktop/In-School_Teaching/2026-2027Fall/ISE/SPAIQ_Generated_Fall_2026/Intelligent-Software-and-Data-Science/ISE-capstone/parking-evidence/demo/test-results",
+        "repeatEach": 1,
+        "retries": 0,
+        "metadata": {
+          "node": "v22.23.1",
+          "channel": "chrome",
+          "actualWorkers": 1
+        },
+        "id": "mobile",
+        "name": "mobile",
+        "testDir": "/Users/abc/Desktop/In-School_Teaching/2026-2027Fall/ISE/SPAIQ_Generated_Fall_2026/Intelligent-Software-and-Data-Science/ISE-capstone/parking-evidence/demo/tests",
+        "testIgnore": [],
+        "testMatch": [
+          "browser.spec.mjs"
+        ],
+        "timeout": 30000
+      }
+    ],
+    "shard": null,
+    "updateSnapshots": "missing",
+    "updateSourceMethod": "patch",
+    "version": "1.56.1",
+    "workers": 1,
+    "webServer": {
+      "command": "npm start",
+      "url": "http://127.0.0.1:4178/ase/en/capstone/",
+      "reuseExistingServer": true
+    }
+  },
+  "suites": [
+    {
+      "title": "browser.spec.mjs",
+      "file": "browser.spec.mjs",
+      "column": 0,
+      "line": 0,
+      "specs": [
+        {
+          "title": "all six stages render without errors or horizontal overflow",
+          "ok": true,
+          "tags": [],
+          "tests": [
+            {
+              "timeout": 30000,
+              "annotations": [],
+              "expectedStatus": "passed",
+              "projectId": "desktop",
+              "projectName": "desktop",
+              "results": [
+                {
+                  "workerIndex": 0,
+                  "parallelIndex": 0,
+                  "status": "passed",
+                  "duration": 485,
+                  "errors": [],
+                  "stdout": [],
+                  "stderr": [],
+                  "retry": 0,
+                  "startTime": "2026-10-12T03:04:40.378Z",
+                  "annotations": [],
+                  "attachments": []
+                }
+              ],
+              "status": "expected"
+            }
+          ],
+          "id": "aed1748819d3efb96fac-fce62ee26f11079bfc41",
+          "file": "browser.spec.mjs",
+          "line": 5,
+          "column": 1
+        },
+        {
+          "title": "normal workflow quotes, confirms receipt, closes and survives reload",
+          "ok": true,
+          "tags": [],
+          "tests": [
+            {
+              "timeout": 30000,
+              "annotations": [],
+              "expectedStatus": "passed",
+              "projectId": "desktop",
+              "projectName": "desktop",
+              "results": [
+                {
+                  "workerIndex": 0,
+                  "parallelIndex": 0,
+                  "status": "passed",
+                  "duration": 1520,
+                  "errors": [],
+                  "stdout": [],
+                  "stderr": [],
+                  "retry": 0,
+                  "startTime": "2026-10-12T03:04:41.243Z",
+                  "annotations": [],
+                  "attachments": []
+                }
+              ],
+              "status": "expected"
+            }
+          ],
+          "id": "aed1748819d3efb96fac-3dae71ac64f94b17267a",
+          "file": "browser.spec.mjs",
+          "line": 15,
+          "column": 1
+        },
+        {
+          "title": "accepted timeout stays pending, alerts, reloads and reconciles once",
+          "ok": true,
+          "tags": [],
+          "tests": [
+            {
+              "timeout": 30000,
+              "annotations": [],
+              "expectedStatus": "passed",
+              "projectId": "desktop",
+              "projectName": "desktop",
+              "results": [
+                {
+                  "workerIndex": 0,
+                  "parallelIndex": 0,
+                  "status": "passed",
+                  "duration": 1839,
+                  "errors": [],
+                  "stdout": [],
+                  "stderr": [],
+                  "retry": 0,
+                  "startTime": "2026-10-12T03:04:42.770Z",
+                  "annotations": [],
+                  "attachments": []
+                }
+              ],
+              "status": "expected"
+            }
+          ],
+          "id": "aed1748819d3efb96fac-64f772988a0a7a339be3",
+          "file": "browser.spec.mjs",
+          "line": 25,
+          "column": 1
+        },
+        {
+          "title": "wrong amount requires review and cannot close stay",
+          "ok": true,
+          "tags": [],
+          "tests": [
+            {
+              "timeout": 30000,
+              "annotations": [],
+              "expectedStatus": "passed",
+              "projectId": "desktop",
+              "projectName": "desktop",
+              "results": [
+                {
+                  "workerIndex": 0,
+                  "parallelIndex": 0,
+                  "status": "passed",
+                  "duration": 1278,
+                  "errors": [],
+                  "stdout": [],
+                  "stderr": [],
+                  "retry": 0,
+                  "startTime": "2026-10-12T03:04:44.617Z",
+                  "annotations": [],
+                  "attachments": []
+                }
+              ],
+              "status": "expected"
+            }
+          ],
+          "id": "aed1748819d3efb96fac-57bf4ad1c4349a295010",
+          "file": "browser.spec.mjs",
+          "line": 35,
+          "column": 1
+        },
+        {
+          "title": "driver scoping and stale mutation denial are observable",
+          "ok": true,
+          "tags": [],
+          "tests": [
+            {
+              "timeout": 30000,
+              "annotations": [],
+              "expectedStatus": "passed",
+              "projectId": "desktop",
+              "projectName": "desktop",
+              "results": [
+                {
+                  "workerIndex": 0,
+                  "parallelIndex": 0,
+                  "status": "passed",
+                  "duration": 293,
+                  "errors": [],
+                  "stdout": [],
+                  "stderr": [],
+                  "retry": 0,
+                  "startTime": "2026-10-12T03:04:45.902Z",
+                  "annotations": [],
+                  "attachments": []
+                }
+              ],
+              "status": "expected"
+            }
+          ],
+          "id": "aed1748819d3efb96fac-b4d2d3540fd91d6a7e3d",
+          "file": "browser.spec.mjs",
+          "line": 40,
+          "column": 1
+        },
+        {
+          "title": "concurrent tabs serialize duplicate entries and payment retries",
+          "ok": true,
+          "tags": [],
+          "tests": [
+            {
+              "timeout": 30000,
+              "annotations": [],
+              "expectedStatus": "passed",
+              "projectId": "desktop",
+              "projectName": "desktop",
+              "results": [
+                {
+                  "workerIndex": 0,
+                  "parallelIndex": 0,
+                  "status": "passed",
+                  "duration": 1042,
+                  "errors": [],
+                  "stdout": [],
+                  "stderr": [],
+                  "retry": 0,
+                  "startTime": "2026-10-12T03:04:46.201Z",
+                  "annotations": [],
+                  "attachments": []
+                }
+              ],
+              "status": "expected"
+            }
+          ],
+          "id": "aed1748819d3efb96fac-8e78bdd8ee6f12a27500",
+          "file": "browser.spec.mjs",
+          "line": 49,
+          "column": 1
+        },
+        {
+          "title": "independent labs execute and exported evidence includes raw samples",
+          "ok": true,
+          "tags": [],
+          "tests": [
+            {
+              "timeout": 30000,
+              "annotations": [],
+              "expectedStatus": "passed",
+              "projectId": "desktop",
+              "projectName": "desktop",
+              "results": [
+                {
+                  "workerIndex": 0,
+                  "parallelIndex": 0,
+                  "status": "passed",
+                  "duration": 849,
+                  "errors": [],
+                  "stdout": [],
+                  "stderr": [],
+                  "retry": 0,
+                  "startTime": "2026-10-12T03:04:47.250Z",
+                  "annotations": [],
+                  "attachments": []
+                }
+              ],
+              "status": "expected"
+            }
+          ],
+          "id": "aed1748819d3efb96fac-c93529c12dc357e49305",
+          "file": "browser.spec.mjs",
+          "line": 66,
+          "column": 1
+        },
+        {
+          "title": "notes are stored as text, with no script execution; fee boundary works",
+          "ok": true,
+          "tags": [],
+          "tests": [
+            {
+              "timeout": 30000,
+              "annotations": [],
+              "expectedStatus": "passed",
+              "projectId": "desktop",
+              "projectName": "desktop",
+              "results": [
+                {
+                  "workerIndex": 0,
+                  "parallelIndex": 0,
+                  "status": "passed",
+                  "duration": 948,
+                  "errors": [],
+                  "stdout": [],
+                  "stderr": [],
+                  "retry": 0,
+                  "startTime": "2026-10-12T03:04:48.107Z",
+                  "annotations": [],
+                  "attachments": []
+                }
+              ],
+              "status": "expected"
+            }
+          ],
+          "id": "aed1748819d3efb96fac-53d22c8a600904fb8cc2",
+          "file": "browser.spec.mjs",
+          "line": 76,
+          "column": 1
+        },
+        {
+          "title": "bad saved data is surfaced and reset is explicit",
+          "ok": true,
+          "tags": [],
+          "tests": [
+            {
+              "timeout": 30000,
+              "annotations": [],
+              "expectedStatus": "passed",
+              "projectId": "desktop",
+              "projectName": "desktop",
+              "results": [
+                {
+                  "workerIndex": 0,
+                  "parallelIndex": 0,
+                  "status": "passed",
+                  "duration": 337,
+                  "errors": [],
+                  "stdout": [],
+                  "stderr": [],
+                  "retry": 0,
+                  "startTime": "2026-10-12T03:04:49.062Z",
+                  "annotations": [],
+                  "attachments": []
+                }
+              ],
+              "status": "expected"
+            }
+          ],
+          "id": "aed1748819d3efb96fac-0cbc668327e8bffc84cf",
+          "file": "browser.spec.mjs",
+          "line": 84,
+          "column": 1
+        },
+        {
+          "title": "operator policy change affects new arrival while original tariff is preserved",
+          "ok": true,
+          "tags": [],
+          "tests": [
+            {
+              "timeout": 30000,
+              "annotations": [],
+              "expectedStatus": "passed",
+              "projectId": "desktop",
+              "projectName": "desktop",
+              "results": [
+                {
+                  "workerIndex": 0,
+                  "parallelIndex": 0,
+                  "status": "passed",
+                  "duration": 1670,
+                  "errors": [],
+                  "stdout": [],
+                  "stderr": [],
+                  "retry": 0,
+                  "startTime": "2026-10-12T03:04:49.405Z",
+                  "annotations": [],
+                  "attachments": []
+                }
+              ],
+              "status": "expected"
+            }
+          ],
+          "id": "aed1748819d3efb96fac-a492745caf5c28c12dff",
+          "file": "browser.spec.mjs",
+          "line": 90,
+          "column": 1
+        },
+        {
+          "title": "value worksheet retains inputs and labels unverified improvement",
+          "ok": true,
+          "tags": [],
+          "tests": [
+            {
+              "timeout": 30000,
+              "annotations": [],
+              "expectedStatus": "passed",
+              "projectId": "desktop",
+              "projectName": "desktop",
+              "results": [
+                {
+                  "workerIndex": 0,
+                  "parallelIndex": 0,
+                  "status": "passed",
+                  "duration": 534,
+                  "errors": [],
+                  "stdout": [],
+                  "stderr": [],
+                  "retry": 0,
+                  "startTime": "2026-10-12T03:04:51.081Z",
+                  "annotations": [],
+                  "attachments": []
+                }
+              ],
+              "status": "expected"
+            }
+          ],
+          "id": "aed1748819d3efb96fac-0badf0be3a9b042d0e82",
+          "file": "browser.spec.mjs",
+          "line": 98,
+          "column": 1
+        },
+        {
+          "title": "all six stages render without errors or horizontal overflow",
+          "ok": true,
+          "tags": [],
+          "tests": [
+            {
+              "timeout": 30000,
+              "annotations": [],
+              "expectedStatus": "passed",
+              "projectId": "mobile",
+              "projectName": "mobile",
+              "results": [
+                {
+                  "workerIndex": 1,
+                  "parallelIndex": 0,
+                  "status": "passed",
+                  "duration": 516,
+                  "errors": [],
+                  "stdout": [],
+                  "stderr": [],
+                  "retry": 0,
+                  "startTime": "2026-10-12T03:04:52.014Z",
+                  "annotations": [],
+                  "attachments": []
+                }
+              ],
+              "status": "expected"
+            }
+          ],
+          "id": "aed1748819d3efb96fac-4f86e5f4948b98b46401",
+          "file": "browser.spec.mjs",
+          "line": 5,
+          "column": 1
+        },
+        {
+          "title": "normal workflow quotes, confirms receipt, closes and survives reload",
+          "ok": true,
+          "tags": [],
+          "tests": [
+            {
+              "timeout": 30000,
+              "annotations": [],
+              "expectedStatus": "passed",
+              "projectId": "mobile",
+              "projectName": "mobile",
+              "results": [
+                {
+                  "workerIndex": 1,
+                  "parallelIndex": 0,
+                  "status": "passed",
+                  "duration": 1601,
+                  "errors": [],
+                  "stdout": [],
+                  "stderr": [],
+                  "retry": 0,
+                  "startTime": "2026-10-12T03:04:52.751Z",
+                  "annotations": [],
+                  "attachments": []
+                }
+              ],
+              "status": "expected"
+            }
+          ],
+          "id": "aed1748819d3efb96fac-96cfc34e52792036160c",
+          "file": "browser.spec.mjs",
+          "line": 15,
+          "column": 1
+        },
+        {
+          "title": "accepted timeout stays pending, alerts, reloads and reconciles once",
+          "ok": true,
+          "tags": [],
+          "tests": [
+            {
+              "timeout": 30000,
+              "annotations": [],
+              "expectedStatus": "passed",
+              "projectId": "mobile",
+              "projectName": "mobile",
+              "results": [
+                {
+                  "workerIndex": 1,
+                  "parallelIndex": 0,
+                  "status": "passed",
+                  "duration": 1783,
+                  "errors": [],
+                  "stdout": [],
+                  "stderr": [],
+                  "retry": 0,
+                  "startTime": "2026-10-12T03:04:54.359Z",
+                  "annotations": [],
+                  "attachments": []
+                }
+              ],
+              "status": "expected"
+            }
+          ],
+          "id": "aed1748819d3efb96fac-6e4a9a9478b3db7dc3e1",
+          "file": "browser.spec.mjs",
+          "line": 25,
+          "column": 1
+        },
+        {
+          "title": "wrong amount requires review and cannot close stay",
+          "ok": true,
+          "tags": [],
+          "tests": [
+            {
+              "timeout": 30000,
+              "annotations": [],
+              "expectedStatus": "passed",
+              "projectId": "mobile",
+              "projectName": "mobile",
+              "results": [
+                {
+                  "workerIndex": 1,
+                  "parallelIndex": 0,
+                  "status": "passed",
+                  "duration": 1004,
+                  "errors": [],
+                  "stdout": [],
+                  "stderr": [],
+                  "retry": 0,
+                  "startTime": "2026-10-12T03:04:56.149Z",
+                  "annotations": [],
+                  "attachments": []
+                }
+              ],
+              "status": "expected"
+            }
+          ],
+          "id": "aed1748819d3efb96fac-fc3919c08d5de63b0c22",
+          "file": "browser.spec.mjs",
+          "line": 35,
+          "column": 1
+        },
+        {
+          "title": "driver scoping and stale mutation denial are observable",
+          "ok": true,
+          "tags": [],
+          "tests": [
+            {
+              "timeout": 30000,
+              "annotations": [],
+              "expectedStatus": "passed",
+              "projectId": "mobile",
+              "projectName": "mobile",
+              "results": [
+                {
+                  "workerIndex": 1,
+                  "parallelIndex": 0,
+                  "status": "passed",
+                  "duration": 291,
+                  "errors": [],
+                  "stdout": [],
+                  "stderr": [],
+                  "retry": 0,
+                  "startTime": "2026-10-12T03:04:57.161Z",
+                  "annotations": [],
+                  "attachments": []
+                }
+              ],
+              "status": "expected"
+            }
+          ],
+          "id": "aed1748819d3efb96fac-222ede7a7c0ca1a46ae7",
+          "file": "browser.spec.mjs",
+          "line": 40,
+          "column": 1
+        },
+        {
+          "title": "concurrent tabs serialize duplicate entries and payment retries",
+          "ok": true,
+          "tags": [],
+          "tests": [
+            {
+              "timeout": 30000,
+              "annotations": [],
+              "expectedStatus": "passed",
+              "projectId": "mobile",
+              "projectName": "mobile",
+              "results": [
+                {
+                  "workerIndex": 1,
+                  "parallelIndex": 0,
+                  "status": "passed",
+                  "duration": 995,
+                  "errors": [],
+                  "stdout": [],
+                  "stderr": [],
+                  "retry": 0,
+                  "startTime": "2026-10-12T03:04:57.458Z",
+                  "annotations": [],
+                  "attachments": []
+                }
+              ],
+              "status": "expected"
+            }
+          ],
+          "id": "aed1748819d3efb96fac-2f0ab49b7a93cbd40812",
+          "file": "browser.spec.mjs",
+          "line": 49,
+          "column": 1
+        },
+        {
+          "title": "independent labs execute and exported evidence includes raw samples",
+          "ok": true,
+          "tags": [],
+          "tests": [
+            {
+              "timeout": 30000,
+              "annotations": [],
+              "expectedStatus": "passed",
+              "projectId": "mobile",
+              "projectName": "mobile",
+              "results": [
+                {
+                  "workerIndex": 1,
+                  "parallelIndex": 0,
+                  "status": "passed",
+                  "duration": 1057,
+                  "errors": [],
+                  "stdout": [],
+                  "stderr": [],
+                  "retry": 0,
+                  "startTime": "2026-10-12T03:04:58.460Z",
+                  "annotations": [],
+                  "attachments": []
+                }
+              ],
+              "status": "expected"
+            }
+          ],
+          "id": "aed1748819d3efb96fac-8bc5fda09317dab4d967",
+          "file": "browser.spec.mjs",
+          "line": 66,
+          "column": 1
+        },
+        {
+          "title": "notes are stored as text, with no script execution; fee boundary works",
+          "ok": true,
+          "tags": [],
+          "tests": [
+            {
+              "timeout": 30000,
+              "annotations": [],
+              "expectedStatus": "passed",
+              "projectId": "mobile",
+              "projectName": "mobile",
+              "results": [
+                {
+                  "workerIndex": 1,
+                  "parallelIndex": 0,
+                  "status": "passed",
+                  "duration": 926,
+                  "errors": [],
+                  "stdout": [],
+                  "stderr": [],
+                  "retry": 0,
+                  "startTime": "2026-10-12T03:04:59.524Z",
+                  "annotations": [],
+                  "attachments": []
+                }
+              ],
+              "status": "expected"
+            }
+          ],
+          "id": "aed1748819d3efb96fac-32d7bcc780ecb26a664a",
+          "file": "browser.spec.mjs",
+          "line": 76,
+          "column": 1
+        },
+        {
+          "title": "bad saved data is surfaced and reset is explicit",
+          "ok": true,
+          "tags": [],
+          "tests": [
+            {
+              "timeout": 30000,
+              "annotations": [],
+              "expectedStatus": "passed",
+              "projectId": "mobile",
+              "projectName": "mobile",
+              "results": [
+                {
+                  "workerIndex": 1,
+                  "parallelIndex": 0,
+                  "status": "passed",
+                  "duration": 317,
+                  "errors": [],
+                  "stdout": [],
+                  "stderr": [],
+                  "retry": 0,
+                  "startTime": "2026-10-12T03:05:00.457Z",
+                  "annotations": [],
+                  "attachments": []
+                }
+              ],
+              "status": "expected"
+            }
+          ],
+          "id": "aed1748819d3efb96fac-ff6c547f9cfa1175e960",
+          "file": "browser.spec.mjs",
+          "line": 84,
+          "column": 1
+        },
+        {
+          "title": "operator policy change affects new arrival while original tariff is preserved",
+          "ok": false,
+          "tags": [],
+          "tests": [
+            {
+              "timeout": 30000,
+              "annotations": [],
+              "expectedStatus": "passed",
+              "projectId": "mobile",
+              "projectName": "mobile",
+              "results": [
+                {
+                  "workerIndex": 1,
+                  "parallelIndex": 0,
+                  "status": "failed",
+                  "duration": 6352,
+                  "error": {
+                    "message": "Error: \u001b[2mexpect(\u001b[22m\u001b[31mlocator\u001b[39m\u001b[2m).\u001b[22mtoHaveText\u001b[2m(\u001b[22m\u001b[32mexpected\u001b[39m\u001b[2m)\u001b[22m failed\n\nLocator:  getByTestId('quote-total')\nExpected: \u001b[32m\"CNY \u001b[7m20\u001b[27m.00\"\u001b[39m\nReceived: \u001b[31m\"CNY \u001b[7m15\u001b[27m.00\"\u001b[39m\nTimeout:  5000ms\n\nCall log:\n\u001b[2m  - Expect \"toHaveText\" with timeout 5000ms\u001b[22m\n\u001b[2m  - waiting for getByTestId('quote-total')\u001b[22m\n\u001b[2m    9 × locator resolved to <div class=\"quote-total\" data-testid=\"quote-total\">CNY 15.00</div>\u001b[22m\n\u001b[2m      - unexpected value \"CNY 15.00\"\u001b[22m\n",
+                    "stack": "Error: \u001b[2mexpect(\u001b[22m\u001b[31mlocator\u001b[39m\u001b[2m).\u001b[22mtoHaveText\u001b[2m(\u001b[22m\u001b[32mexpected\u001b[39m\u001b[2m)\u001b[22m failed\n\nLocator:  getByTestId('quote-total')\nExpected: \u001b[32m\"CNY \u001b[7m20\u001b[27m.00\"\u001b[39m\nReceived: \u001b[31m\"CNY \u001b[7m15\u001b[27m.00\"\u001b[39m\nTimeout:  5000ms\n\nCall log:\n\u001b[2m  - Expect \"toHaveText\" with timeout 5000ms\u001b[22m\n\u001b[2m  - waiting for getByTestId('quote-total')\u001b[22m\n\u001b[2m    9 × locator resolved to <div class=\"quote-total\" data-testid=\"quote-total\">CNY 15.00</div>\u001b[22m\n\u001b[2m      - unexpected value \"CNY 15.00\"\u001b[22m\n\n    at /Users/abc/Desktop/In-School_Teaching/2026-2027Fall/ISE/SPAIQ_Generated_Fall_2026/Intelligent-Software-and-Data-Science/ISE-capstone/parking-evidence/demo/tests/browser.spec.mjs:96:49",
+                    "location": {
+                      "file": "/Users/abc/Desktop/In-School_Teaching/2026-2027Fall/ISE/SPAIQ_Generated_Fall_2026/Intelligent-Software-and-Data-Science/ISE-capstone/parking-evidence/demo/tests/browser.spec.mjs",
+                      "column": 49,
+                      "line": 96
+                    },
+                    "snippet": "  94 |   await page.locator('#quote').click();await expect(page.getByTestId('quote-total')).toHaveText('CNY 15.00');\n  95 |   await page.locator('#actor').selectOption('alice');await page.locator('#quote').click();\n> 96 |   await expect(page.getByTestId('quote-total')).toHaveText('CNY 20.00');\n     |                                                 ^\n  97 | });\n  98 | test('value worksheet retains inputs and labels unverified improvement',async({page})=>{\n  99 |   await open(page,'a6');await page.locator('#baseline-time').fill('100');await page.locator('#candidate-time').fill('120');"
+                  },
+                  "errors": [
+                    {
+                      "location": {
+                        "file": "/Users/abc/Desktop/In-School_Teaching/2026-2027Fall/ISE/SPAIQ_Generated_Fall_2026/Intelligent-Software-and-Data-Science/ISE-capstone/parking-evidence/demo/tests/browser.spec.mjs",
+                        "column": 49,
+                        "line": 96
+                      },
+                      "message": "Error: \u001b[2mexpect(\u001b[22m\u001b[31mlocator\u001b[39m\u001b[2m).\u001b[22mtoHaveText\u001b[2m(\u001b[22m\u001b[32mexpected\u001b[39m\u001b[2m)\u001b[22m failed\n\nLocator:  getByTestId('quote-total')\nExpected: \u001b[32m\"CNY \u001b[7m20\u001b[27m.00\"\u001b[39m\nReceived: \u001b[31m\"CNY \u001b[7m15\u001b[27m.00\"\u001b[39m\nTimeout:  5000ms\n\nCall log:\n\u001b[2m  - Expect \"toHaveText\" with timeout 5000ms\u001b[22m\n\u001b[2m  - waiting for getByTestId('quote-total')\u001b[22m\n\u001b[2m    9 × locator resolved to <div class=\"quote-total\" data-testid=\"quote-total\">CNY 15.00</div>\u001b[22m\n\u001b[2m      - unexpected value \"CNY 15.00\"\u001b[22m\n\n\n  94 |   await page.locator('#quote').click();await expect(page.getByTestId('quote-total')).toHaveText('CNY 15.00');\n  95 |   await page.locator('#actor').selectOption('alice');await page.locator('#quote').click();\n> 96 |   await expect(page.getByTestId('quote-total')).toHaveText('CNY 20.00');\n     |                                                 ^\n  97 | });\n  98 | test('value worksheet retains inputs and labels unverified improvement',async({page})=>{\n  99 |   await open(page,'a6');await page.locator('#baseline-time').fill('100');await page.locator('#candidate-time').fill('120');\n    at /Users/abc/Desktop/In-School_Teaching/2026-2027Fall/ISE/SPAIQ_Generated_Fall_2026/Intelligent-Software-and-Data-Science/ISE-capstone/parking-evidence/demo/tests/browser.spec.mjs:96:49"
+                    }
+                  ],
+                  "stdout": [],
+                  "stderr": [],
+                  "retry": 0,
+                  "startTime": "2026-10-12T03:05:00.780Z",
+                  "annotations": [],
+                  "attachments": [
+                    {
+                      "name": "screenshot",
+                      "contentType": "image/png",
+                      "path": "/Users/abc/Desktop/In-School_Teaching/2026-2027Fall/ISE/SPAIQ_Generated_Fall_2026/Intelligent-Software-and-Data-Science/ISE-capstone/parking-evidence/demo/test-results/browser-operator-policy-ch-4fe46-riginal-tariff-is-preserved-mobile/test-failed-1.png"
+                    },
+                    {
+                      "name": "error-context",
+                      "contentType": "text/markdown",
+                      "path": "/Users/abc/Desktop/In-School_Teaching/2026-2027Fall/ISE/SPAIQ_Generated_Fall_2026/Intelligent-Software-and-Data-Science/ISE-capstone/parking-evidence/demo/test-results/browser-operator-policy-ch-4fe46-riginal-tariff-is-preserved-mobile/error-context.md"
+                    },
+                    {
+                      "name": "trace",
+                      "contentType": "application/zip",
+                      "path": "/Users/abc/Desktop/In-School_Teaching/2026-2027Fall/ISE/SPAIQ_Generated_Fall_2026/Intelligent-Software-and-Data-Science/ISE-capstone/parking-evidence/demo/test-results/browser-operator-policy-ch-4fe46-riginal-tariff-is-preserved-mobile/trace.zip"
+                    }
+                  ],
+                  "errorLocation": {
+                    "file": "/Users/abc/Desktop/In-School_Teaching/2026-2027Fall/ISE/SPAIQ_Generated_Fall_2026/Intelligent-Software-and-Data-Science/ISE-capstone/parking-evidence/demo/tests/browser.spec.mjs",
+                    "column": 49,
+                    "line": 96
+                  }
+                }
+              ],
+              "status": "unexpected"
+            }
+          ],
+          "id": "aed1748819d3efb96fac-f2dd228b8c2b18f03bae",
+          "file": "browser.spec.mjs",
+          "line": 90,
+          "column": 1
+        },
+        {
+          "title": "value worksheet retains inputs and labels unverified improvement",
+          "ok": true,
+          "tags": [],
+          "tests": [
+            {
+              "timeout": 30000,
+              "annotations": [],
+              "expectedStatus": "passed",
+              "projectId": "mobile",
+              "projectName": "mobile",
+              "results": [
+                {
+                  "workerIndex": 2,
+                  "parallelIndex": 0,
+                  "status": "passed",
+                  "duration": 596,
+                  "errors": [],
+                  "stdout": [],
+                  "stderr": [],
+                  "retry": 0,
+                  "startTime": "2026-10-12T03:05:07.532Z",
+                  "annotations": [],
+                  "attachments": []
+                }
+              ],
+              "status": "expected"
+            }
+          ],
+          "id": "aed1748819d3efb96fac-39cf3f6886bc5cdf3248",
+          "file": "browser.spec.mjs",
+          "line": 98,
+          "column": 1
+        }
+      ]
+    }
+  ],
+  "errors": [],
+  "stats": {
+    "startTime": "2026-10-12T03:04:39.698Z",
+    "duration": 28657.927,
+    "expected": 21,
+    "skipped": 0,
+    "unexpected": 1,
+    "flaky": 0
+  }
+}

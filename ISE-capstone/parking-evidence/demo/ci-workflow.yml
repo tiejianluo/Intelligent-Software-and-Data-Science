@@ -1,0 +1,27 @@
+# Install at repository root as .github/workflows/ise-parking-demo.yml.
+# This template is not active while stored in demo/.
+name: ISE parking demo gates
+on:
+  push:
+    paths: ['ISE-capstone/parking-evidence/demo/**']
+  pull_request:
+    paths: ['ISE-capstone/parking-evidence/demo/**']
+  workflow_dispatch:
+permissions:
+  contents: read
+jobs:
+  verify:
+    runs-on: ubuntu-24.04
+    timeout-minutes: 15
+    defaults:
+      run:
+        working-directory: ISE-capstone/parking-evidence/demo
+    steps:
+      - uses: actions/checkout@11d5960a326750d5838078e36cf38b85af677262
+      - uses: actions/setup-node@49933ea5288caeca8642d1e84afbd3f7d6820020 # v4
+        with:
+          node-version: '22'
+      - run: npm ci
+      - run: npx playwright install --with-deps chromium
+      - run: npm run test:all
+      - run: npm audit --audit-level=high

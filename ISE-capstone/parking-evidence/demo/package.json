@@ -1,0 +1,17 @@
+{
+  "name": "ise-parking-evidence-demo",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "A1–A6 parking capstone teaching lab for GitHub Pages",
+  "engines": { "node": ">=22" },
+  "scripts": {
+    "test": "node --test tests/domain.test.mjs",
+    "check": "node --check src/app.js && node --check src/domain.js && node --check src/experiments.js && npm test",
+    "start": "node scripts/serve.mjs",
+    "build": "node scripts/build.mjs",
+    "test:e2e": "playwright test",
+    "test:all": "npm run check && npm run test:e2e && npm run build"
+  },
+  "devDependencies": { "@playwright/test": "1.56.1" }
+}
