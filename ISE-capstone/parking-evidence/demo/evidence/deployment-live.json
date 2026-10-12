@@ -1,0 +1,59 @@
+{
+  "verified_at": "2026-10-12T03:15:12.983298+00:00",
+  "site_commit": "0fc6d9f1dbfd88292b35637abf839d88f190c2b4",
+  "source_implementation_commit": "352e913f18f69bad47d6e33cb9932ac319d174c4",
+  "live_url": "https://tjluo-ucas.github.io/ase/en/capstone/",
+  "course_overview_status": 200,
+  "course_link_present": true,
+  "manifest_matches": true,
+  "assets": [
+    {
+      "path": "index.html",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "sha256": "84c0cb7a8635ebd2076f1f42ce60ec5f69abba4e52f9d941bf86748b89697ff1"
+    },
+    {
+      "path": "styles.css",
+      "status": 200,
+      "content_type": "text/css; charset=utf-8",
+      "sha256": "976c98505591d1fe0eec7d70d92292e9ef6005e3d8b803a17fa1763090c514a0"
+    },
+    {
+      "path": "icon.svg",
+      "status": 200,
+      "content_type": "image/svg+xml",
+      "sha256": "58d600ebc2e0f027599047d1d502c36b7d415397e4ce4ad6b31bf0e150876d5c"
+    },
+    {
+      "path": "src/domain.js",
+      "status": 200,
+      "content_type": "application/javascript; charset=utf-8",
+      "sha256": "cf306ade3548d52b093db5934d21f2d0707465b6050fbc48facccf1be81e3a94"
+    },
+    {
+      "path": "src/store.js",
+      "status": 200,
+      "content_type": "application/javascript; charset=utf-8",
+      "sha256": "36a62d3cbddac2bf11a3daa1c4a07e1bc2f4cdc7f5aa314e69aab407ec53c868"
+    },
+    {
+      "path": "src/experiments.js",
+      "status": 200,
+      "content_type": "application/javascript; charset=utf-8",
+      "sha256": "83fb09790e993acbbc766821a54af676d02d1a5723a8336ce5dbfe8cc0a873a9"
+    },
+    {
+      "path": "src/curriculum.js",
+      "status": 200,
+      "content_type": "application/javascript; charset=utf-8",
+      "sha256": "ee068541e51df1ad25fc6621701ae16d605fc3598e4f86275e5722e82d5dd37b"
+    },
+    {
+      "path": "src/app.js",
+      "status": 200,
+      "content_type": "application/javascript; charset=utf-8",
+      "sha256": "331fe7f22f9a8bf5f3fc5984e27553ecde98ba3f8d2058b8a01d18de960089f3"
+    }
+  ]
+}
