@@ -1,0 +1,44 @@
+{
+  "session_date": "2026-10-12",
+  "platform": "macOS-26.6.2-arm64-arm-64bit",
+  "records": [
+    {
+      "command": "ruby --version",
+      "exit_code": 0,
+      "stdout": "ruby 3.3.4 (2024-07-09 revision be1089c8ec) [arm64-darwin21]\n",
+      "stderr": ""
+    },
+    {
+      "command": "python3 --version",
+      "exit_code": 0,
+      "stdout": "Python 3.9.6\n",
+      "stderr": ""
+    },
+    {
+      "command": "ruby reference/test/fee_calculator_test.rb",
+      "exit_code": 0,
+      "stdout": "PASS zero\nPASS one_second\nPASS hour_minus_one\nPASS exact_hour\nPASS hour_plus_one\nPASS peak\nPASS half_fen_rounds_up\nPASS below_half_fen\nPASS free_tariff_arithmetic\nPASS cross_day_no_cap\nPASS reject duration -1\nPASS reject duration 1.5\nPASS reject duration nil\nPASS reject duration \"60\"\nPASS reject rate -1\nPASS reject rate 10.0\nPASS reject rate nil\nPASS reject coefficient 0\nPASS reject coefficient -1\nPASS reject coefficient 1.5\nPASS reject coefficient nil\nPASS same instant with different offsets\nPASS source-style one hour\nPASS reject reversed time\nPASS reject unqualified or invalid timestamp 2026-09-28T09:00:00\nPASS reject unqualified or invalid timestamp 2026-09-28T09:00:00.5Z\nPASS reject unqualified or invalid timestamp not-a-time\nPASS reject unqualified or invalid timestamp 2026-02-30T09:00:00Z\nPASS reject unqualified or invalid timestamp 2026-09-28T24:00:00Z\nPASS reject unqualified or invalid timestamp 2026-09-28T09:60:00Z\nPASS reject unqualified or invalid timestamp \n31 checks; 0 failures\n",
+      "stderr": ""
+    },
+    {
+      "command": "ruby reference/test/mutation_check.rb",
+      "exit_code": 0,
+      "stdout": "KILLED floor_started_hours: independent fixture one_second failed as intended\nKILLED truncate_half_fen: independent fixture half_fen_rounds_up failed as intended\n2/2 arithmetic mutants killed; no application-security claim\n",
+      "stderr": ""
+    },
+    {
+      "command": "python3 tools/check_links.py",
+      "exit_code": 0,
+      "stdout": "Checked 58 local file links across 28 Markdown files; 0 missing targets\n",
+      "stderr": ""
+    }
+  ],
+  "unchanged_assignment_sources": [
+    "ISE-A1_Problem_and_Stakeholder_Evidence_Brief_English.md",
+    "ISE-A2_Domain_Model_and_Testable_Specification_English.md",
+    "ISE-A3_Repository_Investigation_and_Reproducible_Build_English.md",
+    "ISE-A4_End-to-End_Vertical_Slice_and_Automated_Verification_English.md",
+    "ISE-A5_Quality_and_Security_Counterexample_Study_English.md",
+    "ISE-A6_Reliability_and_Observability_Evidence_Lab_English.md"
+  ]
+}

@@ -1,0 +1,112 @@
+[
+  {
+    "id": "zero",
+    "seconds": 0,
+    "rate_fen": 1000,
+    "coefficient": [
+      1,
+      1
+    ],
+    "hours": 0,
+    "amount_fen": 0
+  },
+  {
+    "id": "one_second",
+    "seconds": 1,
+    "rate_fen": 1000,
+    "coefficient": [
+      1,
+      1
+    ],
+    "hours": 1,
+    "amount_fen": 1000
+  },
+  {
+    "id": "hour_minus_one",
+    "seconds": 3599,
+    "rate_fen": 1000,
+    "coefficient": [
+      1,
+      1
+    ],
+    "hours": 1,
+    "amount_fen": 1000
+  },
+  {
+    "id": "exact_hour",
+    "seconds": 3600,
+    "rate_fen": 1000,
+    "coefficient": [
+      1,
+      1
+    ],
+    "hours": 1,
+    "amount_fen": 1000
+  },
+  {
+    "id": "hour_plus_one",
+    "seconds": 3601,
+    "rate_fen": 1000,
+    "coefficient": [
+      1,
+      1
+    ],
+    "hours": 2,
+    "amount_fen": 2000
+  },
+  {
+    "id": "peak",
+    "seconds": 3600,
+    "rate_fen": 1000,
+    "coefficient": [
+      3,
+      2
+    ],
+    "hours": 1,
+    "amount_fen": 1500
+  },
+  {
+    "id": "half_fen_rounds_up",
+    "seconds": 1,
+    "rate_fen": 1,
+    "coefficient": [
+      3,
+      2
+    ],
+    "hours": 1,
+    "amount_fen": 2
+  },
+  {
+    "id": "below_half_fen",
+    "seconds": 1,
+    "rate_fen": 1,
+    "coefficient": [
+      1,
+      3
+    ],
+    "hours": 1,
+    "amount_fen": 0
+  },
+  {
+    "id": "free_tariff_arithmetic",
+    "seconds": 7200,
+    "rate_fen": 0,
+    "coefficient": [
+      1,
+      1
+    ],
+    "hours": 2,
+    "amount_fen": 0
+  },
+  {
+    "id": "cross_day_no_cap",
+    "seconds": 90000,
+    "rate_fen": 1000,
+    "coefficient": [
+      1,
+      1
+    ],
+    "hours": 25,
+    "amount_fen": 25000
+  }
+]
